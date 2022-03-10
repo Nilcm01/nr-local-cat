@@ -1,13 +1,13 @@
 [ModMeta]
 schema=1
-name=Traducción al Español
-author=Weird and Wry
+name=Traducció al Català
+author=Nil Caballero i Milà en nom de Projecte 'Ce Trencada'
 version=1.0.0
 
 [Language]
-code_iso_639_2=spa
-name=Español
+code_iso_639_2=cat
+name=Català
 
 [LanguageDict]
-code_iso_639_2=spa
+code_iso_639_2=cat
 po=game.po
