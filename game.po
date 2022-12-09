@@ -4,12 +4,12 @@
 #v1.4.22
 msgctxt "building_bottom_side"
 msgid "Bottom side:"
-msgstr "Lado inferior:"
+msgstr "Costat inferior:"
 
 #v1.4.22
 msgctxt "building_decal"
 msgid "Decal:"
-msgstr "Decoración:"
+msgstr "Decoració:"
 
 #v1.4.22
 msgctxt "building_decal_color"
@@ -19,7 +19,7 @@ msgstr "Color decor.:"
 #v1.4.22
 msgctxt "building_decal_none"
 msgid "<None>"
-msgstr "<Ninguno>"
+msgstr "<Cap>"
 
 #v1.4.22
 msgctxt "building_end_t"
@@ -29,7 +29,7 @@ msgstr "T final (0 a 1):"
 #v1.4.22
 msgctxt "building_height"
 msgid "Height:"
-msgstr "Alto:"
+msgstr "Alçada:"
 
 #v1.4.22
 msgctxt "building_start_t"
@@ -39,47 +39,47 @@ msgstr "T inicial (0 a 1):"
 #v1.4.22
 msgctxt "building_top_side"
 msgid "Top side:"
-msgstr "Lado superior:"
+msgstr "Costat superior:"
 
 #v1.4.22
 msgctxt "building_width"
 msgid "Width:"
-msgstr "Ancho:"
+msgstr "Amplada:"
 
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Esborra col·lecció"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_body"
 msgid "Delete the selected collection?"
-msgstr "Borrar la colección seleccionada?"
+msgstr "Esborra la col·lecció seleccionada?"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_ok"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Esborra col·lecció"
 
 #v1.4.22
 msgctxt "delete_collection"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Esborra col·lecció"
 
 #v1.4.22
 msgctxt "edit_collection_name"
 msgid "Edit collection name"
-msgstr "Editar nombre de colección"
+msgstr "Edita nom de col·lecció"
 
 #v1.4.22
 msgctxt "local_bp_collection"
 msgid "Collection to upload:"
-msgstr "Colección a publicar:"
+msgstr "Col·lecció a publicar:"
 
 #v1.4.22
 msgctxt "mod_category_label"
 msgid "Category:"
-msgstr "Categoría:"
+msgstr "Categoria:"
 
 #v1.4.22
 msgctxt "mod_kind_assets"
@@ -89,32 +89,32 @@ msgstr "Recursos"
 #v1.4.22
 msgctxt "mod_kind_blueprints"
 msgid "Blueprints"
-msgstr "Planos"
+msgstr "Plànols"
 
 #v1.4.22
 msgctxt "my_collection"
 msgid "My collection"
-msgstr "Mi colección"
+msgstr "La meva col·lecció"
 
 #v1.4.22
 msgctxt "new_collection"
 msgid "New collection"
-msgstr "Nueva colección"
+msgstr "Nova col·lecció"
 
 #v1.4.22
 msgctxt "pick_a_local_collection"
 msgid "Pick a private collection"
-msgstr "Elige una colección privada"
+msgstr "Escull una col·lecció privada"
 
 #v1.4.22
 msgctxt "return_game"
 msgid "Return to game"
-msgstr "Volver a la partida"
+msgstr "Torna a la partida"
 
 #v1.4.22
 msgctxt "stream_catch_up_desc2"
 msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
-msgstr "Te estás retrasando respecto al servidor. Acelerando el tiempo para alcanzarlo. Lag: {}"
+msgstr "Us esteu retardant respecte al servidor. Accelerant el temps per igualar-lo. Lag: {}"
 
 
 
@@ -124,12 +124,12 @@ msgstr "Te estás retrasando respecto al servidor. Acelerando el tiempo para alc
 #v1.4.22
 msgctxt "constraint_disp"
 msgid "Displace:"
-msgstr "Desplazar:"
+msgstr "Desplaça:"
 
 #v1.4.22
 msgctxt "constraint_offset"
 msgid "Offset:"
-msgstr "Desplazar:"
+msgstr "Desplaça:"
 
 
 
@@ -139,47 +139,47 @@ msgstr "Desplazar:"
 #v1.1.31
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutos"
+msgstr "10 minuts"
 
 #v1.1.31
 msgctxt "15_minutes"
 msgid "15 minutes"
-msgstr "15 minutos"
+msgstr "15 minuts"
 
 #v1.1.31
 msgctxt "20_minutes"
 msgid "20 minutes"
-msgstr "20 minutos"
+msgstr "20 minuts"
 
 #v1.1.31
 msgctxt "30_minutes"
 msgid "30 minutes"
-msgstr "30 minutos"
+msgstr "30 minuts"
 
 #v1.1.31
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 minuts"
 
 #v1.1.31
 msgctxt "60_minutes"
 msgid "60 minutes"
-msgstr "60 minutos"
+msgstr "60 minuts"
 
 #v1.3.13
 msgctxt "acc_export_desc"
 msgid "Accounting data has been exported to {}"
-msgstr "Se ha exportado la contabilidad a {}"
+msgstr "S'ha exportat la comptabilitat a {}"
 
 #v1.3.13
 msgctxt "acc_export_title"
 msgid "Exported accounting data"
-msgstr "Contabilidad exportada"
+msgstr "Comptabilitat exportada"
 
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
-msgstr "Contabilidad"
+msgstr "Comptabilitat"
 
 #v1.1.31
 msgctxt "accounting_cash_total"
@@ -189,52 +189,52 @@ msgstr "$ Total"
 #v1.1.31
 msgctxt "accounting_construction"
 msgid "Construction"
-msgstr "Construcción"
+msgstr "Construcció"
 
 #v1.4.15
 msgctxt "accounting_construction_buildings"
 msgid "Buildings"
-msgstr "Edificios"
+msgstr "Edificis"
 
 #v1.1.31
 msgctxt "accounting_construction_depots"
 msgid "Depots"
-msgstr "Depósitos"
+msgstr "Dipòsits"
 
 #v1.4.15
 msgctxt "accounting_construction_stations"
 msgid "Platforms"
-msgstr "Plataformas"
+msgstr "Andanes"
 
 #v1.1.31
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total construcción"
+msgstr "Total construcció"
 
 #v1.1.31
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Viess"
 
 #v1.1.31
 msgctxt "accounting_financing"
 msgid "Financing"
-msgstr "Financiación"
+msgstr "Financiació"
 
 #v1.1.31
 msgctxt "accounting_financing_credit"
 msgid "Credit"
-msgstr "Crédito"
+msgstr "Crèdit"
 
 #v1.1.31
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr "Interés"
+msgstr "Interès"
 
 #v1.1.37
 msgctxt "accounting_found_station_too_full"
 msgid "Compen.: full station"
-msgstr "Compen.: estación llena"
+msgstr "Compen.: estació plena"
 
 #v1.1.72
 msgctxt "accounting_km_post"
@@ -244,92 +244,92 @@ msgstr "km"
 #v1.1.31
 msgctxt "accounting_pax"
 msgid "Passengers"
-msgstr "Pasajeros"
+msgstr "Passatgers"
 
 #v1.1.31
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "Entrado tren"
+msgstr "Pujat al tren"
 
 #v1.1.31
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensado"
+msgstr "Compensat"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "Compen.: intervención"
+msgstr "Compen.: intervenció"
 
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "Compen.: perdido"
+msgstr "Compen.: perdut"
 
 #v1.1.72
 msgctxt "accounting_pax_never_serviced"
 msgid "Never serviced"
-msgstr "Sin servicio"
+msgstr "Sense servei"
 
 #v1.1.72
 msgctxt "accounting_pax_new"
 msgid "New pax"
-msgstr "Nuevos pax"
+msgstr "Nous pas"
 
 #v1.1.31
 msgctxt "accounting_pax_post"
 msgid "pax"
-msgstr "pax"
+msgstr "pas"
 
 #v1.1.37
 msgctxt "accounting_pax_reached_depot"
 msgid "Refund: reached depot"
-msgstr "Reemb.: llegó a depósito"
+msgstr "Reemb.: arribat a dipòsit"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_destination"
 msgid "Reached destination"
-msgstr "Llegó a destinación"
+msgstr "Arribat a destinació"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_transfer"
 msgid "Reached transfer"
-msgstr "Llegó a transferencia"
+msgstr "Arribat a transferència"
 
 #v1.1.37
 msgctxt "accounting_pax_refunded"
 msgid "Refunded (incl. compen.)"
-msgstr "Reembolsado (incl. compen.)"
+msgstr "Reembossat (incl. compen.)"
 
 #v1.1.37
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "Reemb.: tarifa demasiado alta"
+msgstr "Reemb.: tarifa massa alta"
 
 #v1.1.31
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Empezó viaje"
+msgstr "Començat viatge"
 
 #v1.1.37
 msgctxt "accounting_pax_waited_too_long"
 msgid "Compen.: waited too long"
-msgstr "Compen.: esperó demasiado"
+msgstr "Compen.: va esperar massa"
 
 #v1.1.31
 msgctxt "accounting_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Dia"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime"
 msgid "Lifetime"
-msgstr "Desde creación"
+msgstr "Des de sempre"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime_unknown"
 msgid "Since its creation"
-msgstr "Desde creación"
+msgstr "Des de la creació"
 
 #v1.1.31
 msgctxt "accounting_period_month"
@@ -344,12 +344,12 @@ msgstr "Trimestre"
 #v1.1.31
 msgctxt "accounting_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Setmana"
 
 #v1.1.31
 msgctxt "accounting_period_year"
 msgid "Year"
-msgstr "Año"
+msgstr "Any"
 
 #v1.1.31
 msgctxt "accounting_quarter1"
@@ -374,117 +374,117 @@ msgstr "T4"
 #v1.1.72
 msgctxt "accounting_stats_now"
 msgid "Now"
-msgstr "Ahora"
+msgstr "Ara"
 
 #v1.1.31
 msgctxt "accounting_ticketing"
 msgid "Ticketing"
-msgstr "Billetes"
+msgstr "Bitllets"
 
 #v1.1.31
 msgctxt "accounting_ticketing_compensations"
 msgid "Compensations"
-msgstr "Compensaciones"
+msgstr "Compensacions"
 
 #v1.1.31
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "Tarifas"
+msgstr "Tarifes"
 
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
 msgid "Profit"
-msgstr "Beneficios"
+msgstr "Beneficis"
 
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
-msgstr "Reembolsos"
+msgstr "Reembossaments"
 
 #v1.1.31
 msgctxt "accounting_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trens"
 
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
-msgstr "Intervenciones"
+msgstr "Intervencions"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Manteniment"
 
 #v1.1.31
 msgctxt "accounting_trains_purchases"
 msgid "New trains"
-msgstr "Nuevos trenes"
+msgstr "Nous trens"
 
 #v1.1.31
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Costes de circulación"
+msgstr "Costs de circulació"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
-msgstr "Venta de trenes"
+msgstr "Venda de trens"
 
 #v1.1.72
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {} UTC0"
-msgstr "Tiempo conta.: {} UTC0"
+msgstr "Temps compta.: {} UTC0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
-msgstr "Semana de {0} {1} {2}"
+msgstr "Setmana de {0} {1} {2}"
 
 #v1.1.31
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Permitir siempre"
+msgstr "Permetre sempre"
 
 #v1.1.31
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignora"
 
 #v1.1.31
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Pregúntame"
+msgstr "Pregunteu-me"
 
 #v1.1.31
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Permitido"
+msgstr "Permès"
 
 #v1.1.31
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Denegado"
+msgstr "Denegat"
 
 #v1.1.31
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "Si un amigo no invitado quiere entrar:"
+msgstr "Si un amic no convidat vol entrar:"
 
 #v1.1.31
 msgctxt "acl_pending"
 msgid "Pending"
-msgstr "Pendiente"
+msgstr "Pendent"
 
 #v1.1.31
 msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
-msgstr "Si un desconocido quiere entrar:"
+msgstr "Si un desconegut vol entrar:"
 
 #v1.3.13
 msgctxt "alert_after"
 msgid "After:"
-msgstr "Pasados:"
+msgstr "Passats:"
 
 #v1.3.13
 msgctxt "alert_on"
@@ -494,147 +494,147 @@ msgstr "Alerta en:"
 #v1.4.15
 msgctxt "alerts_pause_game"
 msgid "Alerts pause game"
-msgstr "Alertas pausan el juego"
+msgstr "Les alertes pausen el joc"
 
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "Incluso en máxima velocidad"
+msgstr "Fins i tot a màxima velocitat"
 
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
-msgstr "Aplicar"
+msgstr "Aplica"
 
 #v1.1.72
 msgctxt "asset_lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Línies"
 
 #v1.1.72
 msgctxt "asset_stations"
 msgid "Stations"
-msgstr "Estaciones"
+msgstr "Estacions"
 
 #v1.1.72
 msgctxt "asset_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trens"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Auto exportar conta.:"
+msgstr "Autoexportar compta.:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
 msgid "Enabled"
-msgstr "Activado"
+msgstr "Activat"
 
 #v1.3.13
 msgctxt "autoexporting"
 msgid "Autoexporting..."
-msgstr "Auto exportando..."
+msgstr "Autoexportant..."
 
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Intervalo de autoguarda:"
+msgstr "Interval d'autodesat:"
 
 #v1.1.31
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Total autoguardas:"
+msgstr "Total autodesats:"
 
 #v1.1.31
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Autoguarda..."
+msgstr "Autodesant..."
 
 #v1.1.31
 msgctxt "back"
 msgid "Back"
-msgstr "Volver"
+msgstr "Torna"
 
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "mal ángulo"
+msgstr "mal angle"
 
 #v1.1.72
 msgctxt "balance"
 msgid "Balance"
-msgstr "Balance"
+msgstr "Balanç"
 
 #v1.1.31
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Las peticiones de entrar ignoradas se pueden autorizan en la ventana de administración del servidor."
+msgstr "Les peticions per entrar ignorades es poden autoritzar a la finestra d'administració del servidor."
 
 #v1.1.31
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
-msgstr "{} quiere entrar en tu partida."
+msgstr "{} vol entrar a la vostra partida."
 
 #v1.1.31
 msgctxt "banner_join_stranger"
 msgid "{} (not a friend) wants to join your game."
-msgstr "{} (desconocido) quiere entrar en tu partida."
+msgstr "{} (no és amic) vol entrar a la vostra partida."
 
 #v1.1.31
 msgctxt "banner_new_join"
 msgid "{} joined the game."
-msgstr "{} ha entrado en la partida."
+msgstr "{} ha entrat a la partida."
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "Voleu entrar a una partida organitzada per {}? La vostra partida actual s'autodesarà i sortireu del servidor actual."
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "{0} us proposa entrar a una partida organitzada per {1}. Hi voleu entrar? La vostra partida actual s'autodesarà i sortireu del servidor actual."
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará."
+msgstr "Voleu entrar a una partida organitzada per {}? La vostra partida actual s'autodesarà."
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará."
+msgstr "{0} us proposa entrar a una partida organitzada per {1}. Hi voleu entrar? La vostra partida actual s'autodesarà."
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
 msgid "Do you want to join a game hosted by {}?"
-msgstr "Quieres entrar a una partida hospedada por {}?"
+msgstr "Voleu entrar a una partida organitzada per {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar?"
+msgstr "{0} us proposa entrar a una partida organitzada per {1}. Hi voleu entrar?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "Do you want to join a game hosted by {}? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "Voleu entrar a una partida organitzada per {}? ATENCIÓ: esteu organitzant una partida en aquests moments. Tots els jugadors connectats al vostre servidor seran desconectados. La vostra partida actual s'autodesarà."
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "{0} us proposa entrar a una partida organitzada per {1}. Hi voleu entrar? ATENCIÓ: esteu organitzant una partida en aquests moments. Tots els jugadors connectats al vostre servidor seran desconectados. La vostra partida actual s'autodesarà."
 
 #v1.4.15
 msgctxt "bill_show_full"
 msgid "Show full billing details"
-msgstr "Mostrar factura completa"
+msgstr "Mostra factura completa"
 
 #v1.1.31
 msgctxt "bill_tab_client"
 msgid "By me"
-msgstr "Míos"
+msgstr "Teus"
 
 #v1.1.31
 msgctxt "bill_tab_global"
@@ -644,77 +644,77 @@ msgstr "Global"
 #v1.1.31
 msgctxt "bill_tab_selection"
 msgid "Selection"
-msgstr "Selección"
+msgstr "Selecció"
 
 #v1.1.31
 msgctxt "build"
 msgid "Build"
-msgstr "Construir"
+msgstr "Construeix"
 
 #v1.1.31
 msgctxt "build_all_bp"
 msgid "Build all blueprints"
-msgstr "Construir todos los planos"
+msgstr "Construeix tots els plànols"
 
 #v1.1.31
 msgctxt "build_my_bp"
 msgid "Build my blueprints"
-msgstr "Construir mis planos"
+msgstr "Construeix els meus plànols"
 
 #v1.1.31
 msgctxt "build_selected_bp"
 msgid "Build selected blueprints"
-msgstr "Construir planos seleccionados"
+msgstr "Construeix els plànols sel·leccionats"
 
 #v1.4.15
 msgctxt "building_all_kinds_info"
 msgid "Show all building kinds and pick your favorites"
-msgstr "Mostrar todos los edificios y elegir favoritos"
+msgstr "Mostra tots els edificis i escull els preferits"
 
 #v1.4.15
 msgctxt "building_constraint_curved"
 msgid "Trace track curve"
-msgstr "Trazar la curva de la vía"
+msgstr "Traçar la corba de la via"
 
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
 msgid "Draw depth:"
-msgstr "Altura:"
+msgstr "Alçada:"
 
 #v1.4.15
 msgctxt "building_constraint_pick"
 msgid "Pick track"
-msgstr "Elegir vía"
+msgstr "Escollir via"
 
 #v1.4.15
 msgctxt "building_constraint_type"
 msgid "Locked to track:"
-msgstr "Pegado a vía:"
+msgstr "Enganxat a la via:"
 
 #v1.4.15
 msgctxt "building_constraints_editor"
 msgid "Building properties"
-msgstr "Propiedades de edificio"
+msgstr "Propietats de l'edifici"
 
 #v1.4.15
 msgctxt "building_draw_layer_0"
 msgid "Under tracks"
-msgstr "Bajo de vía"
+msgstr "Sota la via"
 
 #v1.4.15
 msgctxt "building_draw_layer_1"
 msgid "Over tracks"
-msgstr "Sobre la vía"
+msgstr "Sobre la via"
 
 #v1.4.15
 msgctxt "building_draw_layer_3"
 msgid "Roof"
-msgstr "Tejado"
+msgstr "Teulada"
 
 #v1.4.15
 msgctxt "building_info_price_f"
 msgid "${} per m\xC2\xB2"
-msgstr "${} por m²"
+msgstr "${} per m²"
 
 #v1.4.15
 msgctxt "building_label"
@@ -724,72 +724,72 @@ msgstr "[*] Etiqueta"
 #v1.4.15
 msgctxt "building_label_bg_fill"
 msgid "Fill background"
-msgstr "Color de fondo"
+msgstr "Color de fons"
 
 #v1.4.15
 msgctxt "building_label_font"
 msgid "Font size:"
-msgstr "Tamaño fuente:"
+msgstr "Mida font:"
 
 #v1.4.15
 msgctxt "building_label_font_0"
 msgid "Small"
-msgstr "Pequeña"
+msgstr "Petita"
 
 #v1.4.15
 msgctxt "building_label_font_1"
 msgid "Medium"
-msgstr "Mediana"
+msgstr "Mitjana"
 
 #v1.4.15
 msgctxt "building_label_font_2"
 msgid "Large"
-msgstr "Grande"
+msgstr "Gran"
 
 #v1.4.15
 msgctxt "building_label_text"
 msgid "Text:"
-msgstr "Texto:"
+msgstr "Text:"
 
 #v1.4.15
 msgctxt "building_max_zoom"
 msgid "Max zoom:"
-msgstr "Zoom máximo:"
+msgstr "Zoom màxim:"
 
 #v1.4.15
 msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
-msgstr "[*] Extensión de plataforma"
+msgstr "[*] Extensió de l'andana"
 
 #v1.4.15
 msgctxt "buildings_total"
 msgid "Buildings total"
-msgstr "Total edificios"
+msgstr "Total edificis"
 
 #v1.1.31
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Cancel·la"
 
 #v1.1.31
 msgctxt "cancel_quit"
 msgid "Quit"
-msgstr "Salir"
+msgstr "Surt"
 
 #v1.3.13
 msgctxt "cat_track_gauge"
 msgid "Track gauge"
-msgstr "Ancho de vía"
+msgstr "Ample de via"
 
 #v1.3.13
 msgctxt "cat_train_misc"
 msgid "Train miscellany"
-msgstr "Misc. tren"
+msgstr "Miscel·lani tren"
 
 #v1.3.13
 msgctxt "cat_train_power"
 msgid "Train power"
-msgstr "Potencia (tren)"
+msgstr "Potència (tren)"
 
 #v1.3.13
 msgctxt "cat_train_role"
@@ -799,22 +799,22 @@ msgstr "Rol (tren)"
 #v1.3.13
 msgctxt "cat_train_unit"
 msgid "Train unit"
-msgstr "Unidad (tren)"
+msgstr "Unitat (tren)"
 
 #v1.3.13
 msgctxt "charts_title"
 msgid "Charts"
-msgstr "Gráficos"
+msgstr "Gràfics"
 
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
-msgstr "Factura de mis planos"
+msgstr "Factura dels meus plànols"
 
 #v1.4.15
 msgctxt "client_blueprint_bill_short"
 msgid "My blueprints"
-msgstr "Mis planos"
+msgstr "Els meus plànols"
 
 #v1.1.31
 msgctxt "client_conn_info"
@@ -824,7 +824,7 @@ msgstr "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr "Estadísticas de streaming de cliente"
+msgstr "Estadístiques de transmissió de client"
 
 #v1.4.15
 msgctxt "clip_auto_name"
@@ -844,217 +844,217 @@ msgstr "Info"
 #v1.1.31
 msgctxt "confirm_bp"
 msgid "Do you want to build the current blueprint?"
-msgstr "Quieres construir los planos actuales?"
+msgstr "Voleu construir tots els plànols actuals?"
 
 #v1.1.31
 msgctxt "confirm_bp_price"
 msgid "Do you want to build the current blueprint for ${}?"
-msgstr "Quieres construir los planos actuales por un precio de ${}?"
+msgstr "Voleu construir els plànols actuals per un preu de ${}?"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown"
 msgid "Clip contains unknown objects or mods"
-msgstr "El clip contiene objetos o mods desconocidos"
+msgstr "El clip conté objectes o mods desconeguts"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_1"
 msgid "One or more objects in the clip references an unknown object kind:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un tipo de objeto desconocido:\n"
+msgstr "Un o més objectes al clip fa referència a un tipus d'objecte desconegut:\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
+msgstr "Un o més objectes al clip fa referència a un mod:\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+msgstr "Copia emprant objetes per defecte pare reemplaçar els objetes desconeguts amb objetos base del joc, evitant haver d'afegir o activar nous tipus d'objectes o mods.\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_4"
 msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
+msgstr "Copia emprant nous mods per afegir els tipus d'objectes desconeguts al teu joc. Necesitareu subscriure-us als seus mods al Workshop si encara no ho esteu."
 
 #v1.1.31
 msgctxt "confirm_construction"
 msgid "Confirm construction"
-msgstr "Confirmar construcción"
+msgstr "Confirma construcció"
 
 #v1.1.31
 msgctxt "confirm_delete"
 msgid "Confirm delete"
-msgstr "Confirmar borrado"
+msgstr "Confirma esborrat"
 
 #v1.4.15
 msgctxt "confirm_delete_desc"
 msgid "One or more selected objects are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Uno o más objetos ya han sido construidos. Borrar estos objetos no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
+msgstr "Un o més objetes ja han estat construïts. EsEsborrar aquests objectes no us retornarà el seu cost de construcció. Aquesta operació no es pot desfer. N'esteu segurs?"
 
 #v1.1.58
 msgctxt "confirm_delete_line"
 msgid "Confirm line deletion"
-msgstr "Borrar la línea?"
+msgstr "Esorra la línia?"
 
 #v1.1.58
 msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
-msgstr "Confirmas que quieres borrar la línea de nombre {}?"
+msgstr "Confirmeu que voleu esEsborrar la línia de nom {}?"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
-msgstr "Confirmar el paso a dinero ilimitado"
+msgstr "Confirma el pas a diners il·limitat"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "Pasar a dinero ilimitado es definitivo. Estás seguro?"
+msgstr "Pasar a diners il·limitats és definitiu. N'estiu segurs?"
 
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr "colisión con agua o calles"
+msgstr "col·lisió amb aigua o carrers"
 
 #v1.1.31
 msgctxt "conflicts"
 msgid "Conflicts"
-msgstr "Conflictos"
+msgstr "Conflictes"
 
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr "Una o más vías tiene conflictos y no se pueden construir, o no está validada. Mueve, edita o borra todas las vías de color rojo."
+msgstr "Una o més vies temen conflictes i no es poden construir, o no est`s validada. Moveu, editeu o esborreu totes les vies de color vermell."
 
 #v1.1.31
 msgctxt "connecting_elip"
 msgid "Connecting..."
-msgstr "Conectando..."
+msgstr "Connectant..."
 
 #v1.1.31
 msgctxt "connection_denied"
 msgid "Connection denied"
-msgstr "Conexión denegada"
+msgstr "Connexió denegada"
 
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
-msgstr "Dirección:"
+msgstr "Direcció:"
 
 #v1.2.22
 msgctxt "constraint_flip"
 msgid "Flip"
-msgstr "Rotar"
+msgstr "Rota"
 
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Elegir padre"
+msgstr "Escollir pare"
 
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "Quitar restricción"
+msgstr "Treu restricció"
 
 #v1.4.15
 msgctxt "constraint_straight"
 msgid "Keep straight"
-msgstr "Mantener recto"
+msgstr "Mantén recte"
 
 #v1.2.22
 msgctxt "constraint_t"
 msgid "Segment t (0 to 1):"
-msgstr "T de segmento (0 to 1):"
+msgstr "T de segment (0 to 1):"
 
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr "Bloqueo de punto:"
+msgstr "Bloqueig de punt:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr "A punto de control"
+msgstr "A punt de control"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr "A un punto de vía"
+msgstr "A un punt de via"
 
 #v1.4.15
 msgctxt "constraints_editor"
 msgid "Track properties"
-msgstr "Propiedades de vía"
+msgstr "Propietats de via"
 
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr "No hay planos pendientes de construcción"
+msgstr "No hi ha plànols pendents de construcció"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
-msgstr "No hay dinero suficiente para la construcción"
+msgstr "No hi ha prou diners per a la construcció"
 
 #v1.1.31
 msgctxt "construction_conflicts_error"
 msgid "Conflicts block construction"
-msgstr "Hay conflictos bloqueando la construcción"
+msgstr "Hi ha conflictes bloquejant la construcció"
 
 #v1.1.37
 msgctxt "continue_game"
 msgid "Continue game"
-msgstr "Continuar partida"
+msgstr "Continua partida"
 
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr "Copiado! Pega con Ctrl-V"
+msgstr "Copiat! Enganxa-ho amb Ctrl+V"
 
 #v1.1.31
 msgctxt "copy"
 msgid "Copy"
-msgstr "Copiar"
+msgstr "Copia"
 
 #v1.1.31
 msgctxt "credits"
 msgid "Credits"
-msgstr "Créditos"
+msgstr "Crèdits"
 
 #v1.1.31
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "Licencias"
+msgstr "Llicències"
 
 #v1.1.31
 msgctxt "credits_art"
 msgid "Art"
-msgstr "Ilustración"
+msgstr "Il·lustració"
 
 #v1.1.31
 msgctxt "credits_programming"
 msgid "Programming and design"
-msgstr "Programación y diseño"
+msgstr "Programació y disseny"
 
 #v1.1.31
 msgctxt "credits_thanks"
 msgid "Thanks"
-msgstr "Agradecimientos"
+msgstr "Agraïments"
 
 #v1.1.31
 msgctxt "crossings_n_0"
 msgid "0 crossings"
-msgstr "0 cruces"
+msgstr "0 encreuaments"
 
 #v1.1.31
 msgctxt "crossings_n_1"
 msgid "1 crossing"
-msgstr "1 cruce"
+msgstr "1 encreuament"
 
 #v1.1.31
 msgctxt "crossings_n_many"
 msgid "%d crossings"
-msgstr "%d cruces"
+msgstr "%d encreuaments"
 
 #v1.1.31
 msgctxt "custom_admin_level_poi"
@@ -1064,32 +1064,32 @@ msgstr "PDI"
 #v1.1.31
 msgctxt "custom_admin_level_transport"
 msgid "Transportation"
-msgstr "Transportes"
+msgstr "Transports"
 
 #v1.1.31
 msgctxt "default_han_font"
 msgid "Default Han font:"
-msgstr "Fuente Han predet.:"
+msgstr "Font Han predet.:"
 
 #v1.1.31
 msgctxt "default_han_font_chi"
 msgid "Simplified Chinese"
-msgstr "Chino simplificado"
+msgstr "Xinès simplificat"
 
 #v1.1.31
 msgctxt "default_han_font_jpn"
 msgid "Japanese"
-msgstr "Japonés"
+msgstr "Japonès"
 
 #v1.1.31
 msgctxt "default_han_font_kor"
 msgid "Korean"
-msgstr "Koreano"
+msgstr "Koreà"
 
 #v1.1.31
 msgctxt "default_han_font_zho"
 msgid "Traditional Chinese"
-msgstr "Chino tradicional"
+msgstr "Xinès tradicional"
 
 #v1.1.31
 msgctxt "default_train_name"
@@ -1099,77 +1099,77 @@ msgstr "Tren {}"
 #v1.4.15
 msgctxt "default_user_label"
 msgid "Edit me"
-msgstr "Edítame"
+msgstr "Edita'm"
 
 #v1.4.15
 msgctxt "delete_clip"
 msgid "Delete clip"
-msgstr "Borrar clip"
+msgstr "EsEsborrar clip"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "Mover la partida guardada a la papelera"
+msgstr "Mou la partida desada a la paperera"
 
 #v1.1.58
 msgctxt "delete_line"
 msgid "Delete line"
-msgstr "Borrar línea"
+msgstr "Esborra línia"
 
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Borrar y vender trenes"
+msgstr "Esborra i vendre trens"
 
 #v1.4.15
 msgctxt "delete_tracks"
 msgid "Delete objects"
-msgstr "Borrar objetos"
+msgstr "Esborra objectes"
 
 #v1.1.31
 msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
-msgstr "{:.1f} pax/s"
+msgstr "{:.1f} pas/s"
 
 #v1.1.31
 msgctxt "depot_at"
 msgid "Depot at"
-msgstr "Depósito en"
+msgstr "Dipòsit a"
 
 #v1.1.31
 msgctxt "depots_n_0"
 msgid "0 depots"
-msgstr "0 depósitos"
+msgstr "0 dipòsits"
 
 #v1.1.31
 msgctxt "depots_n_1"
 msgid "1 depot"
-msgstr "1 depósito"
+msgstr "1 dipòsit"
 
 #v1.1.31
 msgctxt "depots_n_many"
 msgid "%d depots"
-msgstr "%d depósitos"
+msgstr "%d dipòsits"
 
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
-msgstr "Profundidad {}"
+msgstr "Profunditat {}"
 
 #v1.1.31
 msgctxt "description"
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "Descripció:"
 
 #v1.1.31
 msgctxt "disabled"
 msgid "Disabled"
-msgstr "Desactivado"
+msgstr "Desactivat"
 
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr "Modo:"
+msgstr "Mode:"
 
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
@@ -1179,12 +1179,12 @@ msgstr "Pantalla completa excl."
 #v1.1.31
 msgctxt "display_mode_windowed"
 msgid "Windowed"
-msgstr "Ventana"
+msgstr "Finestra"
 
 #v1.1.31
 msgctxt "display_mode_windowed_fullscreen"
 msgid "Windowed fullscreen"
-msgstr "Ventana pantalla completa"
+msgstr "Finestra pantalla completa"
 
 #v1.1.31
 msgctxt "display_screen"
@@ -1194,108 +1194,108 @@ msgstr "Monitor:"
 #v1.1.31
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
-msgstr "No cambiar"
+msgstr "No el canviïs"
 
 #v1.1.31
 msgctxt "done"
 msgid "Done"
-msgstr "Hecho"
+msgstr "Fet"
 
 #v1.4.15
 msgctxt "edit_clip_name"
 msgid "Edit clip name"
-msgstr "Editar nombre del clip"
+msgstr "Edita nom del clip"
 
 #v1.2.22
 msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
-msgstr "Añadir a vías o crear nuevas vías"
+msgstr "Afegeix a vies o crea'n de noves"
 
 #v1.2.22
 msgctxt "editor_branch"
 msgid "Create new track branches"
-msgstr "Crear nuevas ramas de vías"
+msgstr "Crea noves bifurcacions de vies"
 
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
-msgstr "Crear nuevos edificios"
+msgstr "Crea nous edificis"
 
 #v1.2.22
 msgctxt "editor_depot"
 msgid "Create new depot"
-msgstr "Crear nuevo depósito"
+msgstr "Crea nou dipòsit"
 
 #v1.2.22
 msgctxt "editor_edit_signal"
 msgid "Move, delete and edit signals"
-msgstr "Mover, borrar y editar señales"
+msgstr "Mou, esborra i edita senyals"
 
 #v1.2.22
 msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
-msgstr "Mover, borrar y editar vías"
+msgstr "Mou, esborra i edita vies"
 
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
-msgstr "Crear nuevas señales"
+msgstr "Crea nous senyals"
 
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
 msgid "Click a control point to make it the building parent"
-msgstr "Haz click en un nodo de control de vía para mantener el edificio pegado a la misma"
+msgstr "Feu clic a un node de control de via per mantenir l'edifici enganxat a aquesta"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr "Esc para cancelar elección"
+msgstr "Esc per cancel·lar l'elecció"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Click en punto de control para hacerlo el padre de la restricción"
+msgstr "Cliqueu en un punt de control per fer-lo el pare de la restricció"
 
 #v1.1.58
 msgctxt "editor_select_add_platform"
 msgid "Click platform letters in stations to add stops to the line"
-msgstr "Click en los nombres de plataformas para añadir paradas a la línea"
+msgstr "Cliqueu als noms de les andanes a estacions per afegir-hi parades a la línia"
 
 #v1.1.31
 msgctxt "editor_select_add_waypoint"
 msgid "Click track segments to add waypoints to the line"
-msgstr "Click en los segmentos de vías para añadir puntos de ruta"
+msgstr "Cliqueu als segments de vies per afegir-hi punts de ruta"
 
 #v1.1.31
 msgctxt "editor_select_pick_depot"
 msgid "Click a depot on the map to set this train slot order"
-msgstr "Click en un depósito en el mapa para editar esta orden"
+msgstr "Cliqueu a un dipòsit al mapa per editar aquesta ordre"
 
 #v1.2.22
 msgctxt "editor_station"
 msgid "Create new station platforms"
-msgstr "Crear nuevas plataformas de estación"
+msgstr "Crea noves andanes d'estació"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "Esc para tornar al mode d'edició"
 
 #v1.1.31
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the existing end of track control points to continue an existing track"
-msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
+msgstr "Feu clic esquerre als controls dels extrems de les vies per una via existent"
 
 #v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
-msgstr "Click izquierdo en cualquier otra parte para empezar una nueva vía"
+msgstr "Feu clic esquerre a qualsevol altre lloc per començar una nova via"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
-
+msgstr "Esc per tornar al mode d'edició"
+###########################################################################################################################################################
 #v1.1.31
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
@@ -1339,7 +1339,7 @@ msgstr "Ctrl-C para copiar la selección al portapapeles"
 #v1.4.15
 msgctxt "editor_tip_create_del"
 msgid "Del to delete selected objects"
-msgstr "Del para borrar los objetos seleccionados"
+msgstr "Del para Esborrar los objetos seleccionados"
 
 #v1.4.15
 msgctxt "editor_tip_create_drag"
@@ -1374,7 +1374,7 @@ msgstr "Click izquierdo en los controles de los objetos para resetear la selecci
 #v1.4.15
 msgctxt "editor_tip_create_prompt_sel"
 msgid "To move or delete objects, you must select their control points"
-msgstr "Para mover o borrar objetos, debes seleccionar sus puntos de control"
+msgstr "Para mover o Esborrar objetos, debes seleccionar sus puntos de control"
 
 #v1.4.15
 msgctxt "editor_tip_create_rebp2"
@@ -1489,7 +1489,7 @@ msgstr "Suelta el botón izquierdo para parar de rotar la selección"
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
 msgid "Del to delete selected signals"
-msgstr "Supr para borrar señal(es)"
+msgstr "Supr para Esborrar señal(es)"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_drag"
@@ -2079,17 +2079,17 @@ msgstr "Entrar a partida multijugador"
 #v1.2.22
 msgctxt "kb_map_down"
 msgid "Map: scroll down"
-msgstr "Mapa: desplazar abajo"
+msgstr "Mapa: Desplaçar abajo"
 
 #v1.2.22
 msgctxt "kb_map_left"
 msgid "Map: scroll left"
-msgstr "Mapa: desplazar izquierda"
+msgstr "Mapa: Desplaçar izquierda"
 
 #v1.2.22
 msgctxt "kb_map_right"
 msgid "Map: scroll right"
-msgstr "Mapa: desplazar derecha"
+msgstr "Mapa: Desplaçar derecha"
 
 #v1.2.22
 msgctxt "kb_map_toggle_layer"
@@ -2104,7 +2104,7 @@ msgstr "Mapa: alternar modo de vía"
 #v1.2.22
 msgctxt "kb_map_up"
 msgid "Map: scroll up"
-msgstr "Mapa: desplazar arriba"
+msgstr "Mapa: Desplaçar arriba"
 
 #v1.2.22
 msgctxt "kb_map_zoom_in"
@@ -2769,7 +2769,7 @@ msgstr "El mapa y el interfaz se desactivan en modo de máxima velocidad. Reduce
 #v1.3.13
 msgctxt "minutes"
 msgid "minutes"
-msgstr "minutos"
+msgstr "minuts"
 
 #v1.1.37
 msgctxt "missing_mod"
@@ -2794,7 +2794,7 @@ msgstr "Desactivar en esta partida"
 #v1.1.37
 msgctxt "mod_enable_all_installed"
 msgid "Enable all installed mods"
-msgstr "Activar todos los mods instalados"
+msgstr "Activar tots los mods instalados"
 
 #v1.1.37
 msgctxt "mod_enable_in_game"
@@ -2854,7 +2854,7 @@ msgstr "Steamworks UGC"
 #v1.1.37
 msgctxt "mod_sub_all_not_installed"
 msgid "Subscribe to all missing mods"
-msgstr "Suscribe a todos los mods que faltan"
+msgstr "Suscribe a tots los mods que faltan"
 
 #v1.1.31
 msgctxt "mod_uploader_busy"
@@ -3074,7 +3074,7 @@ msgstr "Mensaje del anfitrión"
 #v1.1.37
 msgctxt "motd_desc"
 msgid "Optionally write here a message to be shown to all clients on joining your game."
-msgstr "Opcionalmente puedes escribir un mensaje para mostrar a todos los clientes que entran a tu partida"
+msgstr "Opcionalmente puedes escribir un mensaje para mostrar a tots los clientes que entran a tu partida"
 
 #v1.1.37
 msgctxt "motd_empty_text"
@@ -3304,7 +3304,7 @@ msgstr "Opciones de nueva partida"
 #v1.2.22
 msgctxt "new_key_tip"
 msgid "Press new key or backspace to clear"
-msgstr "Pulsa la nueva tecla o borrar para limpiar"
+msgstr "Pulsa la nueva tecla o Esborrar para limpiar"
 
 #v1.1.31
 msgctxt "new_loan"
@@ -3559,7 +3559,7 @@ msgstr "Agrupar por la siguiente parada"
 #v1.1.31
 msgctxt "paxlist_groupby_none"
 msgid "Show all"
-msgstr "Todos"
+msgstr "tots"
 
 #v1.1.31
 msgctxt "paxlist_groupby_origin"
@@ -4029,7 +4029,7 @@ msgstr "Nueva signal"
 #v1.3.13
 msgctxt "signal_filter_applies"
 msgid "Applies to all trains"
-msgstr "Aplica a todos los trenes"
+msgstr "Aplica a tots los trenes"
 
 #v1.3.13
 msgctxt "signal_filter_except"
@@ -4039,7 +4039,7 @@ msgstr "Excepto:"
 #v1.3.13
 msgctxt "signal_filter_ignored"
 msgid "Ignored by all trains"
-msgstr "Ignorado por todos los trenes"
+msgstr "Ignorado por tots los trenes"
 
 #v1.3.13
 msgctxt "signal_filter_label"
@@ -4225,11 +4225,11 @@ msgstr "Las opciones para entrar a partida del Steam Chat y Amigos se pueden uti
 msgctxt "steam_chat_server_info"
 msgid "The Invite options in Steam Chat and Steam Friends can be used to invite other players to your hosted game. Your settings for the the Access rules apply to Steam invites."
 msgstr "Las opciones para invitar jugadores del Steam Chat y Amigos se pueden utilizar para invitar a otros jugadores a tu partida. Tus opciones para las reglas de acceso se aplican a estas invitaciones."
-
+##############################################################################################################################################################
 #v1.1.31
 msgctxt "steam_friends"
 msgid "Steam Friends"
-msgstr "Amigos Steam"
+msgstr "Amics d'Steam"
 
 #v1.1.31
 msgctxt "steamworks_id"
@@ -4244,7 +4244,7 @@ msgstr "Parada {}"
 #v1.2.22
 msgctxt "stop_leg_full"
 msgid "{0}m in {1} at {2} km/h avg."
-msgstr "{0}m en {1} a {2} km/h media"
+msgstr "{0}m en {1} a {2} km/h de mitjana"
 
 #v1.2.22
 msgctxt "stop_leg_l"
@@ -4254,7 +4254,7 @@ msgstr "{0}m"
 #v1.1.31
 msgctxt "stops_n_0"
 msgid "0 stops"
-msgstr "0 paradas"
+msgstr "0 parades"
 
 #v1.1.31
 msgctxt "stops_n_1"
@@ -4264,42 +4264,42 @@ msgstr "1 parada"
 #v1.1.31
 msgctxt "stops_n_many"
 msgid "%d stops"
-msgstr "%d paradas"
+msgstr "%d parades"
 
 #v1.1.31
 msgctxt "strangers"
 msgid "Strangers"
-msgstr "Desconocidos"
+msgstr "Desconeguts"
 
 #v1.1.37
 msgctxt "stream_ahead_desc"
 msgid "You are ahead of the host. Pausing your clock to wait for it."
-msgstr "Vas por delante del anfitrión. Parando tu reloj para esperarlo."
+msgstr "Vas per davant de l'amfitrió. Aturant el teu rellotge per esperar-lo."
 
 #v1.1.31
 msgctxt "subs_in_workshop"
 msgid "Subscribe in Workshop"
-msgstr "Suscribirse en Workshop"
+msgstr "Subscriure's al Workshop"
 
 #v1.1.37
 msgctxt "subscribe_to_mods"
 msgid "Subscribe to new mods"
-msgstr "Suscribirse a nuevos mods"
+msgstr "Subscriure's a nous mods"
 
 #v1.1.72
 msgctxt "switch_no_cash"
 msgid "Switch to unlimited"
-msgstr "Pasar a ilimitado"
+msgstr "Passa a il·limitat"
 
 #v1.1.58
 msgctxt "tag_autorack"
 msgid "Autorack"
-msgstr "Autoexpreso"
+msgstr "Autoexprés"
 
 #v1.1.58
 msgctxt "tag_baggage"
 msgid "Baggage"
-msgstr "Equipaje"
+msgstr "Equipatge"
 
 #v1.1.58
 msgctxt "tag_bar"
@@ -4309,17 +4309,17 @@ msgstr "Bar"
 #v1.2.29
 msgctxt "tag_battery"
 msgid "Battery"
-msgstr "Batería"
+msgstr "Bateria"
 
 #v1.1.58
 msgctxt "tag_brake"
 msgid "Brake"
-msgstr "Freno"
+msgstr "Fre"
 
 #v1.1.58
 msgctxt "tag_broad"
 msgid "Broad"
-msgstr "Ancha"
+msgstr "Ampla"
 
 #v1.1.58
 msgctxt "tag_cable"
@@ -4329,62 +4329,62 @@ msgstr "Cable"
 #v1.1.58
 msgctxt "tag_cable_car"
 msgid "Cable car"
-msgstr "Coche de cable"
+msgstr "Funicular"
 
 #v1.1.58
 msgctxt "tag_coach"
 msgid "Coach"
-msgstr "Pasajeros"
+msgstr "Passatgers"
 
 #v1.1.58
 msgctxt "tag_commuter"
 msgid "Commuter"
-msgstr "Cercanías"
+msgstr "Rodalies"
 
 #v1.1.58
 msgctxt "tag_compartments"
 msgid "Compartments"
-msgstr "Cabinas"
+msgstr "Cabines"
 
 #v1.3.13
 msgctxt "tag_del"
 msgid "Delete tag"
-msgstr "Borrar tag"
+msgstr "Esborrar etiqueta"
 
 #v1.1.58
 msgctxt "tag_diesel"
 msgid "Diesel"
-msgstr "Diésel"
+msgstr "Dièsel"
 
 #v1.1.58
 msgctxt "tag_electric"
 msgid "Electric"
-msgstr "Eléctrico"
+msgstr "Elèctric"
 
 #v1.1.58
 msgctxt "tag_end_of_train"
 msgid "End of train"
-msgstr "Fin de tren"
+msgstr "Final de tren"
 
 #v1.1.58
 msgctxt "tag_fantasy"
 msgid "Fantasy"
-msgstr "Fantasía"
+msgstr "Fantasia"
 
 #v1.1.58
 msgctxt "tag_filter_any"
 msgid "Any"
-msgstr "Cualquiera"
+msgstr "Qualsevol"
 
 #v1.1.58
 msgctxt "tag_filter_ignore"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignora"
 
 #v1.1.58
 msgctxt "tag_filter_n_tags"
 msgid "{} tags"
-msgstr "{} etiquetas"
+msgstr "{} etiquetes"
 
 #v1.1.58
 msgctxt "tag_generator"
@@ -4394,12 +4394,12 @@ msgstr "Generador"
 #v1.1.58
 msgctxt "tag_heritage"
 msgid "Heritage"
-msgstr "Histórico"
+msgstr "Històric"
 
 #v1.1.58
 msgctxt "tag_high_speed"
 msgid "High speed"
-msgstr "Alta velocidad"
+msgstr "Alta velocitat"
 
 #v1.1.58
 msgctxt "tag_hotel"
@@ -4409,22 +4409,22 @@ msgstr "Hotel"
 #v1.3.13
 msgctxt "tag_info_builtin"
 msgid "Built-in tag"
-msgstr "Tag predefinida"
+msgstr "Etiqueta predefinida"
 
 #v1.3.13
 msgctxt "tag_info_def_name"
 msgid "New tag"
-msgstr "Nueva tag"
+msgstr "Nova etiqueta"
 
 #v1.3.13
 msgctxt "tag_info_mp"
 msgid "Cannot edit in multiplayer"
-msgstr "No se puede editar en multijugador"
+msgstr "No es pot editar en multijugador"
 
 #v1.3.13
 msgctxt "tag_info_top_level"
 msgid "<Top level>"
-msgstr "<Nivel superior>"
+msgstr "<Nivell superior>"
 
 #v1.1.58
 msgctxt "tag_intercity"
@@ -4434,12 +4434,12 @@ msgstr "Intercity"
 #v1.1.58
 msgctxt "tag_light_rail"
 msgid "Light rail"
-msgstr "Ligero"
+msgstr "Lleuger"
 
 #v1.1.58
 msgctxt "tag_linear_induction"
 msgid "Linear induction"
-msgstr "Inducción lineal"
+msgstr "Inducció lineal"
 
 #v1.1.58
 msgctxt "tag_locomotive"
@@ -4449,12 +4449,12 @@ msgstr "Locomotora"
 #v1.1.58
 msgctxt "tag_long_distance"
 msgid "Long distance"
-msgstr "Larga distancia"
+msgstr "Llarga distància"
 
 #v1.1.58
 msgctxt "tag_lounge"
 msgid "Lounge"
-msgstr "Salón"
+msgstr "Saló"
 
 #v1.1.58
 msgctxt "tag_maglev"
@@ -4469,7 +4469,7 @@ msgstr "Metro"
 #v1.1.58
 msgctxt "tag_minimum_gauge"
 msgid "Minimum gauge"
-msgstr "Ancho mínimo"
+msgstr "Ample mínim"
 
 #v1.1.58
 msgctxt "tag_monorail"
@@ -4479,17 +4479,17 @@ msgstr "Monorail"
 #v1.1.58
 msgctxt "tag_mu"
 msgid "Multiple unit"
-msgstr "Unidad de tren"
+msgstr "Unitat de tren"
 
 #v1.1.58
 msgctxt "tag_narrow"
 msgid "Narrow"
-msgstr "Estrecha"
+msgstr "Estreta"
 
 #v1.3.13
 msgctxt "tag_new"
 msgid "New tag"
-msgstr "Nueva tag"
+msgstr "Nova etiqueta"
 
 #v1.1.58
 msgctxt "tag_observation"
@@ -4499,17 +4499,17 @@ msgstr "Mirador"
 #v1.1.58
 msgctxt "tag_people_mover"
 msgid "People mover"
-msgstr "People mover"
+msgstr "Transport de masses"
 
 #v1.1.58
 msgctxt "tag_private"
 msgid "Private"
-msgstr "Privado"
+msgstr "Privat"
 
 #v1.1.58
 msgctxt "tag_prototype"
 msgid "Prototype"
-msgstr "Prototipo"
+msgstr "Prototip"
 
 #v1.1.58
 msgctxt "tag_push_pull"
@@ -4529,32 +4529,32 @@ msgstr "Regional"
 #v1.1.58
 msgctxt "tag_restaurant"
 msgid "Restaurant"
-msgstr "Restaurante"
+msgstr "Restaurant"
 
 #v1.1.58
 msgctxt "tag_shuttle"
 msgid "Shuttle"
-msgstr "Shuttle"
+msgstr "Llançadora"
 
 #v1.1.58
 msgctxt "tag_sitting"
 msgid "Sitting"
-msgstr "Plazas sentadas"
+msgstr "Places assegudes"
 
 #v1.1.58
 msgctxt "tag_sleeper"
 msgid "Sleeper"
-msgstr "Dormitorio"
+msgstr "Trenhotel"
 
 #v1.1.58
 msgctxt "tag_standard"
 msgid "Standard"
-msgstr "Estándar"
+msgstr "Estàndard"
 
 #v1.1.58
 msgctxt "tag_standing"
 msgid "Standing"
-msgstr "Plazas de pie"
+msgstr "Places a peu"
 
 #v1.1.58
 msgctxt "tag_steam"
@@ -4564,17 +4564,17 @@ msgstr "Vapor"
 #v1.2.29
 msgctxt "tag_tank"
 msgid "Tank"
-msgstr "Depósito"
+msgstr "Dipòsit"
 
 #v1.1.58
 msgctxt "tag_tender"
 msgid "Tender"
-msgstr "Ténder"
+msgstr "Tènder"
 
 #v1.1.58
 msgctxt "tag_third_rail"
 msgid "Third rail"
-msgstr "Tercer raíl"
+msgstr "Tercer carril"
 
 #v1.1.58
 msgctxt "tag_tilting"
@@ -4594,17 +4594,17 @@ msgstr "Turbina"
 #v1.1.58
 msgctxt "tag_tyres"
 msgid "Tyres"
-msgstr "Neumáticos"
+msgstr "Neumàtics"
 
 #v1.3.13
 msgctxt "tags_empty"
 msgid "<No tags>"
-msgstr "<Sin tags>"
+msgstr "<Sense etiq.>"
 
 #v1.1.58
 msgctxt "tags_gauge"
 msgid "Gauge"
-msgstr "Ancho de vía"
+msgstr "Ample de via"
 
 #v1.1.58
 msgctxt "tags_misc"
@@ -4614,7 +4614,7 @@ msgstr "Misc."
 #v1.1.58
 msgctxt "tags_power"
 msgid "Power"
-msgstr "Potencia"
+msgstr "Potència"
 
 #v1.1.58
 msgctxt "tags_role"
@@ -4624,22 +4624,22 @@ msgstr "Rol"
 #v1.1.58
 msgctxt "tags_units"
 msgid "Units"
-msgstr "Unidades"
+msgstr "Unitats"
 
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
-msgstr "Circular por la izquierda en doble plataforma"
+msgstr "Circula per la esquerra en aquesta estació"
 
 #v1.2.29
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "Auto añadir cambio cruzado y señales en doble plataforma"
+msgstr "Autoafegir canvi creuat y senyals en estació amb via doble"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
 msgid "Double track mode"
-msgstr "Modo de doble vía"
+msgstr "Mode de via doble"
 
 #v1.1.31
 msgctxt "time_h_m"
@@ -4659,12 +4659,12 @@ msgstr "{}s"
 #v1.1.31
 msgctxt "title"
 msgid "Title:"
-msgstr "Título:"
+msgstr "Títol:"
 
 #v1.2.22
 msgctxt "tooltip_demand"
 msgid "Local {0}%\nRegional {1}%\nLong distance {2}%"
-msgstr "Local {0}%\nRegional {1}%\nLarga distancia {2}%"
+msgstr "Local {0}%\nRegional {1}%\nLlarga distància {2}%"
 
 #v1.1.31
 msgctxt "total"
@@ -4674,17 +4674,17 @@ msgstr "Total"
 #v1.2.29
 msgctxt "track_all_kinds_info"
 msgid "Show all track kinds and pick your favorites"
-msgstr "Mostrar todos los tipos de vía y elegir favoritos"
+msgstr "Mostra tots els tipus de via i escull-ne de preferits"
 
 #v1.1.31
 msgctxt "track_editor"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Vies"
 
 #v1.1.31
 msgctxt "track_hits"
 msgid "track hits"
-msgstr "choques con vía"
+msgstr "xocs amb la via"
 
 #v1.2.29
 msgctxt "track_info_layer"
@@ -4694,22 +4694,22 @@ msgstr "Capa:"
 #v1.2.29
 msgctxt "track_info_max_speed"
 msgid "Max speed:"
-msgstr "Vel. máxima:"
+msgstr "Vel. màxima:"
 
 #v1.2.29
 msgctxt "track_info_multi"
 msgid "Multiple selection"
-msgstr "Selección múltiple"
+msgstr "Selecció múltiple"
 
 #v1.2.29
 msgctxt "track_info_price"
 msgid "Price:"
-msgstr "Precio:"
+msgstr "Preu:"
 
 #v1.2.29
 msgctxt "track_info_price_f"
 msgid "${} per km"
-msgstr "${} por km"
+msgstr "${} per km"
 
 #v1.2.29
 msgctxt "track_info_special"
@@ -4719,52 +4719,52 @@ msgstr "Especial:"
 #v1.2.29
 msgctxt "track_info_special_no_collide_ways"
 msgid "Ignores roads"
-msgstr "Ignora calles"
+msgstr "Ignora carrers"
 
 #v1.2.29
 msgctxt "track_not_favorited"
 msgid "Not favorited"
-msgstr "No favorito"
+msgstr "No preferit"
 
 #v1.2.29
 msgctxt "track_sort_alpha"
 msgid "Alphabetical"
-msgstr "Alfabético"
+msgstr "Alfabètic"
 
 #v1.2.29
 msgctxt "track_sort_price"
 msgid "Price"
-msgstr "Precio"
+msgstr "Preu"
 
 #v1.2.29
 msgctxt "track_sort_speed"
 msgid "Max. speed"
-msgstr "Vel. máxima"
+msgstr "Vel. màxima"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
-msgstr "Esconder puntos de control en zoom bajo"
+msgstr "Amaga punts de control amb zoom baix"
 
 #v1.4.15
 msgctxt "tracks_total"
 msgid "Tracks total"
-msgstr "Total vías"
+msgstr "Total vies"
 
 #v1.3.13
 msgctxt "train_alert_banner"
 msgid "{} ({})\n{}\nSince: {} UTC{}"
-msgstr "{} ({})\n{}\Desde: {} UTC{}"
+msgstr "{} ({})\n{}\Des de: {} UTC{}"
 
 #v1.3.13
 msgctxt "train_alert_center_train"
 msgid "Go to train"
-msgstr "Ir a tren"
+msgstr "Vés al tren"
 
 #v1.3.13
 msgctxt "train_alert_line_banner"
 msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
-msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
+msgstr "{} ({} / {})\n{}\Des de: {} UTC{}"
 
 #v1.1.31
 msgctxt "train_base_color_edit"
@@ -4774,17 +4774,17 @@ msgstr "Color base:"
 #v1.1.31
 msgctxt "train_bill"
 msgid "Train bill"
-msgstr "Factura de trenes"
+msgstr "Factura de trens"
 
 #v1.1.31
 msgctxt "train_clone"
 msgid "Clone"
-msgstr "Clonar"
+msgstr "Clona"
 
 #v1.1.31
 msgctxt "train_code_edit"
 msgid "Serial:"
-msgstr "N. serie:"
+msgstr "N. sèrie:"
 
 #v1.1.31
 msgctxt "train_decal_color_edit"
@@ -4794,47 +4794,47 @@ msgstr "Color decor.:"
 #v1.1.31
 msgctxt "train_decal_edit"
 msgid "Decal:"
-msgstr "Decoración:"
+msgstr "Decoració:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
 msgid "Pick a decal"
-msgstr "Elige una decor."
+msgstr "Escull una decor."
 
 #v1.1.31
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
-msgstr "Usa color línea"
+msgstr "Color de la línia"
 
 #v1.1.58
 msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Llega en {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Arriba en {0}, {1:.1f} km de {2:.1f} km"
 
 #v1.1.58
 msgctxt "train_info_car_name"
 msgid "Car:"
-msgstr "Coche:"
+msgstr "Cotxe:"
 
 #v1.1.58
 msgctxt "train_info_departs"
 msgid "Departs in {}"
-msgstr "Salida en {}"
+msgstr "Sortida en {}"
 
 #v1.1.58
 msgctxt "train_info_departs_from"
 msgid "Departs in {0} from {1}"
-msgstr "Salida en {0} desde {1}"
+msgstr "Sortida en {0} des de {1}"
 
 #v1.1.31
 msgctxt "train_info_destination"
 msgid "Destination:"
-msgstr "Destino:"
+msgstr "Destinació:"
 
 #v1.1.31
 msgctxt "train_info_dim"
 msgid "Dimensions:"
-msgstr "Dimensiones:"
+msgstr "Dimensions:"
 
 #v1.1.58
 msgctxt "train_info_dim_car"
@@ -4844,147 +4844,147 @@ msgstr "{0:.2f}m / {1:.2f}m"
 #v1.1.58
 msgctxt "train_info_dim_d"
 msgid "{0} units / {1:.2f}m / {2:.2f}m"
-msgstr "{0} unidades / {1:.2f}m / {2:.2f}m"
+msgstr "{0} unitats / {1:.2f}m / {2:.2f}m"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
 msgid "Dynamics:"
-msgstr "Dinámica:"
+msgstr "Dinàmica:"
 
 #v1.1.31
 msgctxt "train_info_empty_mass"
 msgid "Empty mass:"
-msgstr "Masa vacío:"
+msgstr "Massa buida:"
 
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Retard de {0}, {1:.1f} km de {2:.1f} km"
 
 #v1.1.31
 msgctxt "train_info_line"
 msgid "Line:"
-msgstr "Línea:"
+msgstr "Línia:"
 
 #v1.1.31
 msgctxt "train_info_location"
 msgid "Location:"
-msgstr "Lugar:"
+msgstr "Ubicació:"
 
 #v1.1.37
 msgctxt "train_info_maintenance_cost"
 msgid "Maintenance cost:"
-msgstr "Coste mantenimiento:"
+msgstr "Cost de mantenimient:"
 
 #v1.1.31
 msgctxt "train_info_maintenance_cost_f"
 msgid "${} per day"
-msgstr "${} por día"
+msgstr "{}$ per dia"
 
 #v1.1.31
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
-msgstr "Masa / vacío:"
+msgstr "Massa / buit:"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
 msgid "Max pax:"
-msgstr "Max pax:"
+msgstr "Màx pas:"
 
 #v1.1.31
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "Max velocidad:"
+msgstr "Màx velocitat:"
 
 #v1.1.31
 msgctxt "train_info_pax"
 msgid "Pax / max:"
-msgstr "Pax / max:"
+msgstr "Pas / màx:"
 
 #v1.1.58
 msgctxt "train_info_power"
 msgid "Power:"
-msgstr "Potencia:"
+msgstr "Potència:"
 
 #v1.1.72
 msgctxt "train_info_price"
 msgid "Price:"
-msgstr "Precio:"
+msgstr "Preu:"
 
 #v1.1.31
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr "Coste circulación:"
+msgstr "Cost de circulació:"
 
 #v1.1.31
 msgctxt "train_info_running_cost_f"
 msgid "${:.4} per km per pax"
-msgstr "${:.4} por km por pax"
+msgstr "${:.4} per km per pas"
 
 #v1.1.31
 msgctxt "train_info_speed"
 msgid "Speed / max:"
-msgstr "Velocidad / max:"
+msgstr "Velocitat / màx:"
 
 #v1.1.31
 msgctxt "train_info_status"
 msgid "Status:"
-msgstr "Estado:"
+msgstr "Estat:"
 
 #v1.3.13
 msgctxt "train_info_status_busy_track"
 msgid "Track is occupied or reserved"
-msgstr "Vía ocupada o reservada"
+msgstr "Via ocupada o reservada"
 
 #v1.1.31
 msgctxt "train_info_status_circulation"
 msgid "Running"
-msgstr "Circulando"
+msgstr "Circulant"
 
 #v1.2.22
 msgctxt "train_info_status_collision"
 msgid "Collision"
-msgstr "Colisión"
+msgstr "Col·lisió"
 
 #v1.1.31
 msgctxt "train_info_status_in_storage"
 msgid "Stored"
-msgstr "Almacenado"
+msgstr "Emmagatzemat"
 
 #v1.3.13
 msgctxt "train_info_status_line_closed"
 msgid "Line is closed"
-msgstr "Line cerrada"
+msgstr "Línia tancada"
 
 #v1.1.31
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
-msgstr "Perdido u orden inválida"
+msgstr "Perdut o ordre invàlida"
 
 #v1.1.31
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr "Sin camino a destino"
+msgstr "Sense camí a la destinació"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
 msgid "Waiting at signal"
-msgstr "Esperando señal"
+msgstr "Esperant senyal"
 
 #v1.1.31
 msgctxt "train_info_storing"
 msgid "Storing in:"
-msgstr "Almacenado en:"
+msgstr "Emmagatzemat a:"
 
 #v1.1.37
 msgctxt "train_info_total_power"
 msgid "Total power:"
-msgstr "Potencia total"
+msgstr "Potència total"
 
 #v1.1.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train position to its next stop or depot, pay the costs of relocation, refund its fares, and pay a compensation fine. The price is ${}."
-msgstr "Esta intervención resetea la posición del tren a su siguente parada o depósito, paga el coste del reposicionamiento, reembolsa lo pagado a sus pax, y paga una multa. El precio es ${}."
+msgstr "Aquesta intervenció retorna la posició del tren a la seva següent parada o dipòsit, paga el cost del reposicionament, reembossa els diners als passatgers i paga una multa. El preu és de {}$."
 
 #v1.1.31
 msgctxt "train_intervention_dialog_title"
@@ -4994,162 +4994,162 @@ msgstr "Intervenir tren"
 #v1.1.31
 msgctxt "train_invalid_order"
 msgid "Invalid order"
-msgstr "Orden inválida"
+msgstr "Ordre invàlida"
 
 #v1.1.37
 msgctxt "train_list_filter_alert"
 msgid "With alert warnings"
-msgstr "Solo con alertas"
+msgstr "Només amb alertes"
 
 #v1.1.37
 msgctxt "train_list_filter_by_line"
 msgid "Group by line"
-msgstr "Agrupar por línea"
+msgstr "Agrupa per línia"
 
 #v1.3.13
 msgctxt "train_list_filter_by_line_tags"
 msgid "Group by line tags"
-msgstr "Agrupar por tags de línea"
+msgstr "Agrupa por etiquetes de línia"
 
 #v1.1.37
 msgctxt "train_list_filter_by_model"
 msgid "Group by model"
-msgstr "Agrupar por modelo"
+msgstr "Agrupa por modelo"
 
 #v1.1.37
 msgctxt "train_list_filter_depot"
 msgid "In depot"
-msgstr "En depósito"
+msgstr "Al dipòsit"
 
 #v1.3.13
 msgctxt "train_list_filter_tags"
 msgid "Group by tags"
-msgstr "Agrupar por tags"
+msgstr "Agrupa per etiquetes"
 
 #v1.1.31
 msgctxt "train_model_edit"
 msgid "Model:"
-msgstr "Modelo:"
+msgstr "Model:"
 
 #v1.1.58
 msgctxt "train_n_copies"
 msgid "Trains:"
-msgstr "Trenes:"
+msgstr "Trens:"
 
 #v1.1.31
 msgctxt "train_name_edit"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Nom:"
 
 #v1.1.72
 msgctxt "train_new_for_line_name"
 msgid "New train for {}"
-msgstr "Nuevo tren para {}"
+msgstr "Nou tren per a {}"
 
 #v1.1.72
 msgctxt "train_price"
 msgid "Train price:"
-msgstr "Precio del tren:"
+msgstr "Preu del tren:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
 msgid "Not enough money for purchase"
-msgstr "No hay suficiente dinero para la compra"
+msgstr "No hi ha prou diners per a la compra"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
-msgstr "No hay suficiente dinero para comprar los trenes. Elige un tren más barato, menos trenes, menos coches, o consigue más dinero."
+msgstr "No hi ha prou diners per comprar els trens. Escolliu un tren més econòmic, menys trens, menys cotxes, o conseguiu més diners."
 
 #v1.1.72
 msgctxt "train_purchase_sched"
 msgid "Schedule:"
-msgstr "Programación:"
+msgstr "Programació:"
 
 #v1.1.72
 msgctxt "train_purchase_sched_empty"
 msgid "Blank schedule"
-msgstr "Programación vacía"
+msgstr "Programació buida"
 
 #v1.1.72
 msgctxt "train_purchase_sched_simple"
 msgid "Run an existing line"
-msgstr "Recorrer una línea existente"
+msgstr "Recorre una línia existent"
 
 #v1.1.31
 msgctxt "train_sched_add"
 msgid "Toggle new slots mode"
-msgstr "Activar creación de slots"
+msgstr "Activa la creació de solcs"
 
 #v1.1.31
 msgctxt "train_sched_add_help"
 msgid "Click anywhere to add a new schedule slot"
-msgstr "Click en cualquier parte para añadir un slot de programación"
+msgstr "Cliqueu a qualsevol part per afegir-hi un solc de programació"
 
 #v1.1.31
 msgctxt "train_sched_clear_all_multi"
 msgid "Delete all {} slots"
-msgstr "Borrar todos los slots de {}"
+msgstr "Esborra tots els solc de {}"
 
 #v1.1.31
 msgctxt "train_sched_clear_all_single"
 msgid "Delete all slots"
-msgstr "Borrar todos los slots"
+msgstr "Esborra tots els solcs"
 
 #v1.1.31
 msgctxt "train_sched_clear_day"
 msgid "Delete all {0} slots from train {1}"
-msgstr "Borrar todos los slots de {0} del tren {1}"
+msgstr "Esborra tots els solcs de {0} del tren {1}"
 
 #v1.1.31
 msgctxt "train_sched_copy_day"
 msgid "Copy all {0} slots from train {1}"
-msgstr "Copiar todos los slots de {0} del tren {1}"
+msgstr "Copia tots els solcs de {0} del tren {1}"
 
 #v1.1.31
 msgctxt "train_sched_copy_slot"
 msgid "Copy selected slot"
-msgstr "Copiar slot seleccionado"
+msgstr "Copia solc sel·leccionat"
 
 #v1.1.31
 msgctxt "train_sched_copy_week"
 msgid "Copy entire week schedule of train {}"
-msgstr "Copiar toda la programación semanal del tren {}"
+msgstr "Copia tota la programació setmanal del tren {}"
 
 #v1.1.31
 msgctxt "train_sched_del"
 msgid "Delete selected slot"
-msgstr "Borrar slot seleccionado"
+msgstr "Esborra solc sel·leccionat"
 
 #v1.1.31
 msgctxt "train_sched_depot_pick"
 msgid "Pick depot"
-msgstr "Elegir depósito"
+msgstr "Escull dipòsit"
 
 #v1.1.31
 msgctxt "train_sched_line"
 msgid "Line:"
-msgstr "Línea:"
+msgstr "Línia:"
 
 #v1.1.31
 msgctxt "train_sched_new_slot"
 msgid "New"
-msgstr "Nuevo"
+msgstr "Nou"
 
 #v1.1.31
 msgctxt "train_sched_noun_all"
 msgid "All"
-msgstr "Todos"
+msgstr "Tots"
 
 #v1.1.31
 msgctxt "train_sched_noun_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Dia"
 
 #v1.1.31
 msgctxt "train_sched_noun_slot"
 msgid "Slot"
-msgstr "Slot"
+msgstr "Solc"
 
 #v1.1.31
 msgctxt "train_sched_noun_train"
@@ -5159,147 +5159,147 @@ msgstr "Tren"
 #v1.1.31
 msgctxt "train_sched_noun_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Setmana"
 
 #v1.1.31
 msgctxt "train_sched_noun_week_all"
 msgid "Week *"
-msgstr "Semana *"
+msgstr "Setmana *"
 
 #v1.1.31
 msgctxt "train_sched_paste_all_day"
 msgid "Paste slots in every day"
-msgstr "Pegar slots en todos los días"
+msgstr "Enganxa solcs a tots els dies"
 
 #v1.1.31
 msgctxt "train_sched_paste_all_train"
 msgid "Paste slots in every train {} schedule"
-msgstr "Pegar slots en {} de todos los trenes"
+msgstr "Enganxa solcs al {} de tots els trens"
 
 #v1.1.31
 msgctxt "train_sched_paste_day"
 msgid "Paste slots on train {0} {1} schedule"
-msgstr "Pegar slots en el {1} del tren {0}"
+msgstr "Enganxa solcs del tren {0} al tren {1}"
 
 #v1.1.31
 msgctxt "train_sched_paste_week"
 msgid "Replace entire week schedule in train {}"
-msgstr "Reemplazar toda la programación semanal en el tren {}"
+msgstr "Reemplaça tota la programació setmanal al tren {}"
 
 #v1.1.31
 msgctxt "train_sched_paste_week_all"
 msgid "Replace entire week schedule in all trains"
-msgstr "Reemplazar toda la programación semanal en todos los trenes"
+msgstr "Reemplaça tota la programació setmanal a tots els trens"
 
 #v1.1.37
 msgctxt "train_sched_pause_warn"
 msgid "Unpause the game to apply orders. Orders may take some time to apply."
-msgstr "Desactiva la pausa para aplicar órdenes. Pueden tardar un tiempo en ser aceptadas."
+msgstr "Desactiva la pausa per aplicar ordres. Poden trigar un cert temps en ser acceptades."
 
 #v1.1.31
 msgctxt "train_sched_slot_kind"
 msgid "Order:"
-msgstr "Orden:"
+msgstr "Ordre:"
 
 #v1.1.31
 msgctxt "train_sched_slot_kind_depot"
 msgid "Store in depot"
-msgstr "Almacenar en depósito"
+msgstr "Emmagatzemar a un dipòsit"
 
 #v1.1.31
 msgctxt "train_sched_slot_kind_line"
 msgid "Run a line"
-msgstr "Circular en línea"
+msgstr "Operar una línia"
 
 #v1.1.31
 msgctxt "train_sched_start"
 msgid "Start time:"
-msgstr "Tiempo inicio:"
+msgstr "Temps d'inici:"
 
 #v1.1.31
 msgctxt "train_sched_start_stop"
 msgid "Start from:"
-msgstr "Empezar desde:"
+msgstr "Començar des de:"
 
 #v1.1.58
 msgctxt "train_texture_info"
 msgid "Train textures: {} of {} max"
-msgstr "IGNORE Train textures: {} of {} max"
+msgstr "IGNORA Textures de trens: {} de {} màxims"
 
 #v1.1.58
 msgctxt "train_textures_option"
 msgid "Train textures:"
-msgstr "IGNORE Train textures:"
+msgstr "IGNORA Textures de trens:"
 
 #v1.1.72
 msgctxt "train_total_price_1"
 msgid "Total for 1 train:"
-msgstr "Total para 1 tren:"
+msgstr "Total per 1 tren:"
 
 #v1.1.72
 msgctxt "train_total_price_many"
 msgid "Total for %d trains:"
-msgstr "Total para %d trenes:"
+msgstr "Total per %d trens:"
 
 #v1.1.58
 msgctxt "train_units_inst"
 msgid "Units:"
-msgstr "Unidades:"
+msgstr "Unitats:"
 
 #v1.1.72
 msgctxt "train_want_clone_schedule"
 msgid "Clone from {}"
-msgstr "Copiar de {}"
+msgstr "Copia de {}"
 
 #v1.1.31
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
-msgstr "Limpiar selección"
+msgstr "Neteja la sel·lecció"
 
 #v1.1.37
 msgctxt "traineditor_move_camera"
 msgid "Focus camera when selecting a train"
-msgstr "Centrar la cámara al seleccionar un tren"
+msgstr "Centra la càmera al sel·leccionar un tren"
 
 #v1.1.31
 msgctxt "traineditor_overflow_desc"
 msgid "Too many trains selected to show the slot editor, but it is still possible to use some bulk editing operations."
-msgstr "Hay demasiados trenes seleccionados para mostrar el editor de slots, pero aún es posible ejecutar algunas operaciones."
+msgstr "Hi ha massa trens sel·leccionats com per mostrar l'editor de solcs, però encara és possible executar algunes operacions."
 
 #v1.1.58
 msgctxt "traineditor_select_all"
 msgid "Select all listed trains"
-msgstr "Seleccionar todos los trenes listados"
+msgstr "Sel·lecciona tots els trens llistats"
 
 #v1.1.37
 msgctxt "traineditor_sell_all_selected"
 msgid "Sell selected trains"
-msgstr "Vender trenes seleccionados"
+msgstr "Vén els trens sel·leccionats"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_buy_mode"
 msgid "Purchase new trains"
-msgstr "Comprar nuevos trenes"
+msgstr "Compra nous trens"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
-msgstr "Listar trenes y editar sus detalles y programación"
+msgstr "Llista trens i edita llurs detalls i programació"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_sched_mode"
 msgid "Edit the schedule of multiple trains simultaneously"
-msgstr "Editar la programación de múltiples trenes simultaneamente"
+msgstr "Edita la programació de múltiples trens simultàniament"
 
 #v1.1.37
 msgctxt "traineditor_tooltip_sell"
 msgid "Sell selected train"
-msgstr "Vender tren seleccionado"
+msgstr "Vendre tren sel·leccionat"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_tz_selector"
 msgid "Time zone"
-msgstr "Zona horaria"
+msgstr "Zona horària"
 
 #v1.1.31
 msgctxt "traineditor_tz_auto"
@@ -5309,12 +5309,12 @@ msgstr "Auto"
 #v1.1.31
 msgctxt "trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trens"
 
 #v1.1.31
 msgctxt "trains_n_0"
 msgid "0 trains"
-msgstr "0 trenes"
+msgstr "0 trens"
 
 #v1.1.31
 msgctxt "trains_n_1"
@@ -5324,72 +5324,72 @@ msgstr "1 tren"
 #v1.1.31
 msgctxt "trains_n_many"
 msgid "%d trains"
-msgstr "%d trenes"
+msgstr "%d trens"
 
 #v1.1.58
 msgctxt "transfers_to"
 msgid "Transfers to {}"
-msgstr "Transbordo a {}"
+msgstr "Transbord a {}"
 
 #v1.1.31
 msgctxt "ugc_error_conn"
 msgid "Error while connecting with Steamworks"
-msgstr "Error conectando a Steamworks"
+msgstr "Error connectant a Steamworks"
 
 #v1.1.31
 msgctxt "ugc_error_logged"
 msgid "Must be logged into Steam to perform this action"
-msgstr "Hay que estar dentro de Steam para ejecutar esta acción"
+msgstr "Cal tenir la sessió iniciada a Steam per executar aquesta acció"
 
 #v1.1.31
 msgctxt "ugc_error_priv"
 msgid "Not enough privileges with the current user account in Steam"
-msgstr "No hay suficientes privilegios con la cuenta actual de Steam"
+msgstr "No hi ha prou privilegis amb el compte actual d'Steam"
 
 #v1.1.31
 msgctxt "ugc_error_timeout"
 msgid "Timeout while connecting with Steam"
-msgstr "Timeout conectando a Steam"
+msgstr "Temps d'espera esgotat connectant a Steam"
 
 #v1.1.31
 msgctxt "ugc_some_rule_req"
 msgid "Selected local mod is empty"
-msgstr "El mod local seleccionado está vacío"
+msgstr "El mod local sel·leccionat és buit"
 
 #v1.1.31
 msgctxt "ugc_valid_desc_req"
 msgid "Description is required"
-msgstr "Descripción es obligatoria"
+msgstr "La descripció és obligatoria"
 
 #v1.1.31
 msgctxt "ugc_valid_desc_too_long"
 msgid "Description is too long"
-msgstr "Description demasiado larga"
+msgstr "Descripció massa llarga"
 
 #v1.1.31
 msgctxt "ugc_valid_folder_req"
 msgid "A valid local mod is required"
-msgstr "Se requiere un mod local"
+msgstr "Es requereix un mod local"
 
 #v1.1.31
 msgctxt "ugc_valid_image_req"
 msgid "An icon image file is required"
-msgstr "Se requiere una imagen de icono"
+msgstr "Es requereix una imatge d'icona"
 
 #v1.1.37
 msgctxt "ugc_valid_title_req"
 msgid "Title is required"
-msgstr "Título obligatorio"
+msgstr "Títol obligatori"
 
 #v1.1.31
 msgctxt "ugc_valid_title_too_long"
 msgid "Title is too long"
-msgstr "Título demasiado largo"
+msgstr "Títol massa llarg"
 
 #v1.1.31
 msgctxt "ugc_warn_already"
 msgid "A Mod is still being created and/or updated, please wait"
-msgstr "Se está subiendo o creando un mod, espera por favor"
+msgstr "S'està penjant o creant un mod, espereu, si us plau"
 
 #v1.1.72
 msgctxt "unit_kmh"
@@ -5399,57 +5399,57 @@ msgstr "km/h"
 #v1.1.72
 msgctxt "unit_pax"
 msgid "pax"
-msgstr "pax"
+msgstr "pas"
 
 #v1.1.31
 msgctxt "unknown"
 msgid "Unknown"
-msgstr "Desconocido"
+msgstr "Desconegut"
 
 #v1.2.29
 msgctxt "unlimited_depth"
 msgid "Unlimited depth"
-msgstr "Profundidad ilimitada"
+msgstr "Profunditat l·limitada"
 
 #v1.2.29
 msgctxt "unlimited_height"
 msgid "Unlimited height"
-msgstr "Altura ilimitada"
+msgstr "Alçada il·limitada"
 
 #v1.1.31
 msgctxt "update_note"
 msgid "Update note:"
-msgstr "Nota update:"
+msgstr "Nota d'actualització:"
 
 #v1.1.31
 msgctxt "upload_mod"
 msgid "Upload mod"
-msgstr "Subir mod"
+msgstr "Penja el mod"
 
 #v1.4.15
 msgctxt "use_placeholders"
 msgid "Copy with built-in"
-msgstr "Copiar por defecto"
+msgstr "Copia per defecte"
 
 #v1.1.37
 msgctxt "used_active_mod"
 msgid "This mod is used by one or more objects in the game, and cannot be disabled."
-msgstr "Este mod está en uso por uno o más objetos en el juego, y no se puede desactivar."
+msgstr "Aquest mod es troba en ús por un o més objectes del juego i no es pot desactivar."
 
 #v1.2.22
 msgctxt "user_signal_light_cones"
 msgid "Signal light cones"
-msgstr "Cono de luz de señales"
+msgstr "Con de llum de senyals"
 
 #v1.1.31
 msgctxt "view_in_workshop"
 msgid "View in Workshop"
-msgstr "Ver en Workshop"
+msgstr "Veure a Workshop"
 
 #v1.1.31
 msgctxt "visibility"
 msgid "Visibility:"
-msgstr "Visibilidad:"
+msgstr "Visibilitat:"
 
 #v1.1.31
 msgctxt "vsync_mode"
@@ -5459,7 +5459,7 @@ msgstr "VSync:"
 #v1.2.29
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
-msgstr "Mod está en uso"
+msgstr "El mod està en us"
 
 #v1.1.31
 msgctxt "warning"
@@ -5469,110 +5469,110 @@ msgstr "Alerta"
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
 msgid "High speed"
-msgstr "Alta velocidad"
+msgstr "Alta velocitat"
 
 #v1.2.29
 msgctxt "waw_track_mid_1_name"
 msgid "Medium speed"
-msgstr "Velocidad mediana"
+msgstr "Velocitat mitjana"
 
 #v1.2.29
 msgctxt "waw_track_tram_1_name"
 msgid "Tram"
-msgstr "Tranvía"
+msgstr "Tramvia"
 
 #v1.1.31
 msgctxt "waypoint"
 msgid "Waypoint"
-msgstr "Punto de paso"
+msgstr "Punt de pas"
 
 #v1.1.31
 msgctxt "weekday_friday"
 msgid "Friday"
-msgstr "Viernes"
+msgstr "Divendres"
 
 #v1.1.31
 msgctxt "weekday_monday"
 msgid "Monday"
-msgstr "Lunes"
+msgstr "Dilluns"
 
 #v1.1.31
 msgctxt "weekday_saturday"
 msgid "Saturday"
-msgstr "Sábado"
+msgstr "Dissabte"
 
 #v1.1.31
 msgctxt "weekday_short_friday"
 msgid "Fri"
-msgstr "Vie"
+msgstr "Dv"
 
 #v1.1.31
 msgctxt "weekday_short_monday"
 msgid "Mon"
-msgstr "Lun"
+msgstr "Dl"
 
 #v1.1.31
 msgctxt "weekday_short_saturday"
 msgid "Sat"
-msgstr "Sáb"
+msgstr "Ds"
 
 #v1.1.31
 msgctxt "weekday_short_sunday"
 msgid "Sun"
-msgstr "Dom"
+msgstr "Dg"
 
 #v1.1.31
 msgctxt "weekday_short_thursday"
 msgid "Thu"
-msgstr "Jue"
+msgstr "Dj"
 
 #v1.1.31
 msgctxt "weekday_short_tuesday"
 msgid "Tue"
-msgstr "Mar"
+msgstr "Dm"
 
 #v1.1.31
 msgctxt "weekday_short_wednesday"
 msgid "Wed"
-msgstr "Mié"
+msgstr "Dc"
 
 #v1.1.31
 msgctxt "weekday_sunday"
 msgid "Sunday"
-msgstr "Domingo"
+msgstr "Diumenge"
 
 #v1.1.31
 msgctxt "weekday_thursday"
 msgid "Thursday"
-msgstr "Jueves"
+msgstr "Dijous"
 
 #v1.1.31
 msgctxt "weekday_tuesday"
 msgid "Tuesday"
-msgstr "Martes"
+msgstr "Dimarts"
 
 #v1.1.31
 msgctxt "weekday_wednesday"
 msgid "Wednesday"
-msgstr "Miércoles"
+msgstr "Dimecres"
 
 #v1.1.31
 msgctxt "workshop_more_langs"
 msgid "More languages"
-msgstr "Más idiomas"
+msgstr "Més llengües"
 
 #v1.1.31
 msgctxt "wrong_length"
 msgid "wrong length"
-msgstr "longitud inválida"
+msgstr "longitud invàlida"
 
 #v1.1.37
 msgctxt "wrong_protocol_desc"
 msgid "Your serialization and protocol do not match with the server. Make sure both your game and the server are running exactly the same game version, as displayed in the main menu."
-msgstr "Tu versión del juego no coincide con la del anfitrión. Asegúrate que tanto tu juego como el del anfitrión son la misma versión, como se muestra en el menú principal."
+msgstr "La vostra versió del joc no coincideix amb la de l'amfitrió. Assegureu-vos que tant el teu joc com el de l'amfitrió són la mateixa versió, com es mostra al menú principal."
 
 #v1.1.37
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
-msgstr "Los datos de este mod está activados en la partida, pero sus archivos requieren una versión más nueva del juego. Actualiza el juego."
+msgstr "Les dades d'aquest mod estan activades a la partida, però els seus fitxers requereixen d'una versió més nova del joc. Actualizeu el joc."
 
