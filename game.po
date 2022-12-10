@@ -1,327 +1,327 @@
-#v1.5.41
+#v1.5.41 -T
 msgctxt "auto_clone"
 msgid "(Auto)"
 msgstr "(Auto)"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "constraint_xform_grid_snap"
 msgid "Snap:"
 msgstr "Reticular:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "constraint_xform_rotate"
 msgid "Rotate:"
 msgstr "Rotar:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr "Rotar fin de vía:"
+msgstr "Rotar final de via:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "constraint_xform_translate"
 msgid "Translate:"
-msgstr "Mover:"
+msgstr "Moure:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "editor_tip_dupe"
 msgid "Ctrl-B to duplicate selected objects in-place"
-msgstr "Ctrl-B para duplicar objetos sin moverlos"
+msgstr "Ctrl-B per duplicar objectes sense moure'ls"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "editor_tip_sel_track_flip"
 msgid "{} to flip side of selected parallel tracks"
-msgstr "{} para cambiar de lado las vías paralelas"
+msgstr "{} per canviar de costat les vies paral·leles"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "intervene_all_stale_trains"
 msgid "Intervene all stale"
-msgstr "Intervenir todos los trenes caducados"
+msgstr "Intervenir tots els trens caducats"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "line_alert_closed"
 msgid "Line is closed"
-msgstr "Line cerrada"
+msgstr "Tínia tancada"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "line_alert_invalid_legs"
 msgid "Contains invalid path(s)"
-msgstr "Contiene caminos inválidos"
+msgstr "Conté camins no vàlids"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "line_skip_parent_stop"
 msgid "Skip [{0}] {1}"
-msgstr "Saltar [{0}] {1}"
+msgstr "Salta [{0}] {1}"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_clone_parent"
 msgid "Stop properties:"
 msgstr "Parada:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_clone_parent_clone"
 msgid "Copy from parent line"
-msgstr "Copiar de línea padre"
+msgstr "Copia de la línia pare"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_clone_parent_custom"
 msgid "Customize for this line service"
-msgstr "Cambiar para este servicio"
+msgstr "Canvia per a aquest servei"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_cruise_speed_ns"
 msgid "Cruise speed:"
-msgstr "Velocidad crucero:"
+msgstr "Velocitat de creuer:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta"
 msgid "Effective time:"
-msgstr "Tiempo efectivo:"
+msgstr "Temps efectiu:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_custom_speed"
 msgid "Custom speed (km/h):"
-msgstr "Velocidad (km/h):"
+msgstr "Velocitat (km/h):"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_custom_time"
 msgid "Custom time:"
-msgstr "Tiempo:"
+msgstr "Temps:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr "Format: (hh:)mm:ss\nSe intentará aproximar este tiempo mediante velocidad de crucero.\nPodría ignorarse si la velocidad resultante es demasiado lenta o rápida.\nLos trenes pueden ignorar este tiempo si van retrasados."
+msgstr "Format: (hh:)mm:ss\nS'intentarà aproximar aquest temps mitjançant la velocitat de creuer.\nPodria ignorar-se si la velocitat resultant és massa lenta o ràpida.\nEls trens poden ignorar aquest temps si van amb retard."
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_mode"
 msgid "Leg timing:"
-msgstr "Tiempo de recorrido:"
+msgstr "Temps de recorregut:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_mode_auto"
 msgid "Automatic"
-msgstr "Automático"
+msgstr "Automàtic"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_mode_speed"
 msgid "Custom speed"
-msgstr "Elegir velocidad"
+msgstr "Escull velocitat"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_leg_eta_mode_time"
 msgid "Custom time"
-msgstr "Elegir tiempo"
+msgstr "Escull temps"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_service_of"
 msgid "Service of:"
-msgstr "Servicio de:"
+msgstr "Servei de:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_stop_panel_leg_title"
 msgid "Leg {0} {1} {2}"
-msgstr "Recorrido {0} {1} {2}"
+msgstr "Recorregut {0} {1} {2}"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_stop_panel_line_service_stop"
 msgid "Line service stop"
-msgstr "Parada de un servicio"
+msgstr "Parada d'un servei"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_suffix"
 msgid "Suffix:"
-msgstr "Sufijo:"
+msgstr "Sufix:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_tags_inherit_parent"
 msgid "Parent line tags are also inherited by trains\n"
-msgstr "Las etiquetas del padre son heredadas por los trenes de sus servicios\n"
+msgstr "Les etiquetes del pare són heretades pels trens dels seus serveis\n"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "lineeditor_tooltip_create_line_service"
 msgid "Create a new line service"
-msgstr "Crear nuevo servicio"
+msgstr "Crea nou servei"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "list_sort_compact"
 msgid "Compact"
-msgstr "Compacto"
+msgstr "Compacte"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "mass_intervention_stale_trains_but"
 msgid "All stale trains intervention"
-msgstr "Intervenir trenes caducados"
+msgstr "Intervé trens caducats"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "mass_intervention_stale_trains_desc"
 msgid "Do you want to issue an intervention to all stale trains for a price of ${}?"
-msgstr "Quieres intervenir todos los trenes caducados por ${}?"
+msgstr "Vols intervenir tots els trens cadacuts per {}€?"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "mass_intervention_stale_trains_title"
 msgid "Confirm all stale trains intervention"
-msgstr "Confirmar intervención de trenes caducados"
+msgstr "Confirma intervenció de trens caducats"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "mass_recalc_all_lines_but"
 msgid "Refresh all line timings"
-msgstr "Refrescar todas las líneas"
+msgstr "Refresca totes les línies"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "picker_mode_flat"
 msgid "Flat"
-msgstr "Plano"
+msgstr "Pla"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "picker_mode_line_tags"
 msgid "Line tags"
-msgstr "Etiquetas línea"
+msgstr "Etiquetes ded línia"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "picker_mode_lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Línies"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "picker_mode_recent"
 msgid "Recent"
-msgstr "Recientes"
+msgstr "Recents"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "picker_mode_tags"
 msgid "Tags"
-msgstr "Etiquetas"
+msgstr "Etiquetes"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "plats_show_conflicts"
 msgid "Highlight overlapping train stops"
-msgstr "Mostrar paradas con conflictos"
+msgstr "Mostra parades amb conflictes"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "plats_stacked_lines"
 msgid "Single column per platform"
-msgstr "Una columna por plataforma"
+msgstr "Una columna per andana"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "rtstat_leg_late"
 msgid "Lateness estimation"
-msgstr "Estimación del retraso"
+msgstr "Estimació del retard"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "train_info_late_predicted"
 msgid "Est. late by {}"
-msgstr "Retraso est. {}"
+msgstr "Retard est. {}"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "train_list_compact"
 msgid "Compact"
-msgstr "Compacto"
+msgstr "Compacte"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "train_orders_auto_copy_shift"
 msgid "Copy:"
-msgstr "Copiar:"
+msgstr "Copia:"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "train_orders_auto_copy_shift_go_parent"
 msgid "Edit parent orders"
-msgstr "Editar órdenes del padre"
+msgstr "Edita ordres del pare"
 
-#v1.5.41
+#v1.5.41 -T
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr "Cambia el tiempo más temprano posible que permite a la orden anterior no tener tiempo de espera extra\nIgnora los cambios no aplicados a los días de la semana o el inicio de la orden\nSolo se aplica al primer día de la orden"
+msgstr "Canvia el temps més més aviat possible que permet a l'ordre anterior no tenir temps d'espera extra\nIgnora els canvis no aplicats als dies de la setmana o a l'inici de l'ordre\nNomés s'aplica al primer dia de l'ordre"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "eventos"
+msgstr "eesdeveniments"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
+msgstr "Tren ple, impossible pujar-hi"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Sigue la hora del día automaticamente"
+msgstr "Segueix l'hora del dia automàticament"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Andén recto:"
+msgstr "Andana recta:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "bulk_keep_straight_disable"
 msgid "Disable"
-msgstr "Desactivar"
+msgstr "Desactiva"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "bulk_keep_straight_enable"
 msgid "Enable"
-msgstr "Activar"
+msgstr "Activa"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Etiqueta de l'estació:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "company_tab_loans"
 msgid "Loans"
-msgstr "Crédito"
+msgstr "Crèdits"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "company_tab_options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "Opcions"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Confirmar intervención de línea"
+msgstr "Confirma intervenció de la línia"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
+msgstr "Vols intervenir tots els trens que recorren ara mateix la línia {0} per un preu de {1}€?"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Velocidad max. manual:"
+msgstr "Velocitat màx. manual:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
+msgstr "S'ignoraran els valors per sobre del límit físic de la via. El valor 0 desactiva aquesta funcionalitat."
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Desplazar paralelo:"
+msgstr "Desplaça en paral·lel:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Restricción paralela:"
+msgstr "Restricció paral·lela:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "Elimina"
 
 #v1.5.41 -T
 msgctxt "constraints_bulk_editor"
 msgid "Bulk editor"
 msgstr "Editor en grup"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Selecciona una señal para asignarla como el discriminador de andén"
+msgstr "Selecciona una senyal par asignar-la com a el discriminador d'andana"
 
 #v1.5.41 -T
 msgctxt "editor_select_alt_stop"
@@ -333,245 +333,245 @@ msgctxt "editor_select_change_platform"
 msgid "Click platform names in stations to change the stop main platform"
 msgstr "Selecciona andanes d'una estació per canviar-ne la principal"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "editor_warn_only_trains"
 msgid "Pax will leave and won't board trains running this line."
-msgstr "Los pax ignorarán los trenes asignados a esta línea."
+msgstr "Els passatgers ignoraran els trens assignats a aquesta línia."
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "El intervalo excede la duración de la línea. Será ignorado o funcionará incorrectamente.\nAumenta la duración manual de la línea hasta como mínimo el valor del intervalo."
+msgstr "L'interval excedeix la duració de la línia. S'ignorarà o funcionara incorrectament.\nAugmenta la duració manual de la línia fins, com a mínim, el valor de l'interval."
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
-msgstr "Velocidad: {:.1f}x"
+msgstr "Velocidtat: {:.1f}x"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "Velocidad: {0:.1f}x\nHandicap: {1}%"
+msgstr "Velocitat: {0:.1f}x\nHandicap: {1}%"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "info_table_pax_waiting"
 msgid "Waiting for"
-msgstr "Esperando a"
+msgstr "Esperant a"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "info_table_pax_waiting_tp"
 msgid "Expected to depart with this line and stop number, based on timetables"
-msgstr "Espera salir usando esta línea en esta parada, basado en el horario"
+msgstr "Espera sortir amb aquesta línia en aquesta parada, basat en l'horari"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "input_range"
 msgid "{}{} to {}{}"
 msgstr "{}{} a {}{}"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
-msgstr "Intervenir todos los trenes"
+msgstr "Intervé tots els trens"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "intervene_line"
 msgid "Intervene line"
-msgstr "Intervenir línea"
+msgstr "Intervé línia"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "line_editor_tip_zoom_pick"
 msgid "Zoom in to pick"
-msgstr "Ampliar para elegir"
+msgstr "Amplia per escollir"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "line_timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Horari"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "line_to2"
 msgid "{} [{}] to"
 msgstr "{} [{}] a"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
-msgstr "Andenes secundarios:"
+msgstr "Andanes secundàries:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_alt_platforms_n"
 msgid "(Total: {})"
 msgstr "(Total: {})"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr "Señal disc. andenes:"
+msgstr "Senyal disc. d'andana:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_alt_signal_label"
 msgid "Signal {}"
-msgstr "Señal {}"
+msgstr "Senyal {}"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_auto_interval_auto"
 msgid "Auto interval:"
-msgstr "Auto intervalo:"
+msgstr "Auto intervals:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Añade uno o más trenes en auto recorrido"
+msgstr "Afegeix un o més trens en auto-recorregut"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_auto_interval_kind2"
 msgid "Launch trains:"
-msgstr "Lanzamiento:"
+msgstr "Llançament:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr "Espaciados uniformemente en un recorrido"
+msgstr "Espaiats uniformes en un recorregut"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "En intervalo manual y fijo"
+msgstr "En interval manual i fix"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_auto_timings"
 msgid "Auto run line"
-msgstr "Auto recorrido de línea"
+msgstr "Auto-recorregut de la línia"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_custom_duration"
 msgid "Custom duration:"
-msgstr "Duración manual:"
+msgstr "Duració manual:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Formato: hh:mm:ss\nSi la duración de la línea es inferior a este valor, las paradas marcadas como de pausa de duración manual tendrán tiempo de espera extra, hasta que la duración total coincida con la duración manual.\nEl tiempo extra se distribuirá entre las paradas marcadas de pausa manual. Si no hay paradas marcadas se utilizará la última parada de la línea."
+msgstr "Format: hh:mm:ss\nSi la duració de la línia és inferior a aquest valor, les parades marcades com de pausa de duració manual tindran temps d'espera extra, fins que la duració total coincideixi amb la duració manual.\nEl temps extra es distribuirà entre les parades marcades de pausa manual. Si no hi ha parades marcades se n'utilizará la darrera de la línia."
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr "Periodo manual:"
+msgstr "Període manual:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Formato: hh:mm:ss\n.La duración de la línea se elegirá automaticamente para encajar perfectamente en este periodo de tiempo. El periodo en si no garantiza que encaje perfectamente en días o semanas."
+msgstr "Format: hh:mm:ss\n.La duració de la línia s'escollirà automàticament per encaixar perfectament en aquest periode de temps. El periode en si no garanteix que encaixi perfectament en dies o setmanes."
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Permitir parada de duración manual"
+msgstr "Permet parada de duració manual"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
 msgstr "Manual"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_fit_period"
 msgid "Fit a period"
-msgstr "Encajar un periodo"
+msgstr "Encaixa un periode"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_mode"
 msgid "Line duration:"
-msgstr "Duración de línea:"
+msgstr "Duració de línia:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_mode_minimal"
 msgid "Minimal"
 msgstr "Mínima"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_period"
 msgid "Period:"
-msgstr "Periodo:"
+msgstr "Periode:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_period_custom"
 msgid "Custom"
 msgstr "Manual"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Dia"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Setmana"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_waiters"
 msgid "Extra stop time on:"
-msgstr "Espera extra en:"
+msgstr "Espera extra a:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_waiters_all"
 msgid "Evenly on all stops"
-msgstr "Uniforme en todas las paradas"
+msgstr "Uniforme a totes les parades"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
-msgstr "Paradas elegidas manualmente"
+msgstr "Parades escollides manualment"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
-msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}"
+msgstr "Volta manual: {0}\nSense volta manual: {1}\Volta mínima: {2}\nSense volta mínima: {3}"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "Salida del primer tren:"
+msgstr "Sortida del primer tren:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Formato: hh:mm:ss\nHora de la salida del primer tren de recorrido automático.\nEsta opción solo se aplica a trenes de recorrido automático.\nLos trenes en modo manual o en modo copia ignoran esta opción."
+msgstr "Format: hh:mm:ss\nHora de la sortida del primer tren de recorregut automàtic.\nAquesta opció només s'aplica a trens de recorregut automàtic.\nEls trens en mode manual o en mode copia ignoren aquesta opció."
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr "Andén principal:"
+msgstr "Andana principal:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
-msgstr "Intervalo manual:"
+msgstr "Interval manual:"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
 msgstr "Parada {}"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_tooltip_clone"
 msgid "Clone selected line"
-msgstr "Clonar línea seleccionada"
+msgstr "Clona línia seleccionada"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_tooltip_depot_new"
 msgid "Create a new depot line"
-msgstr "Crear nueva línea de depósito"
+msgstr "Crea nova línia de dipòsit"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_tooltip_down_shift"
 msgid "Shift down all line stops"
-msgstr "Desplazar abajo todas las paradas"
+msgstr "Desplaça cap a baix totes les parades"
 
-#v1.5.31
+#v1.5.31 -T
 msgctxt "lineeditor_tooltip_intervention"
 msgid "Issue an intervention to all trains currently running the selected line"
-msgstr "Intervenir todos los trenes recorriendo la línea"
+msgstr "Intervé tots els trens que recorren la línia seleccionada"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_shift"
