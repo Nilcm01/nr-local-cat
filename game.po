@@ -1557,7 +1557,7 @@ msgstr "Interès"
 #v1.1.37 -T
 msgctxt "accounting_found_station_too_full"
 msgid "Compen.: full station"
-msgstr "Compen.: estació plena"
+msgstr "Compensació: estació plena"
 
 #v1.1.72 -T
 msgctxt "accounting_km_post"
@@ -1572,22 +1572,22 @@ msgstr "Passatgers"
 #v1.1.31 -T
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "Pujat al tren"
+msgstr "Muntat al tren"
 
 #v1.1.31 -T
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensat"
+msgstr "Usuaris compensats"
 
 #v1.1.37 -T
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "Compen.: intervenció"
+msgstr "Compensació: intervenció"
 
 #v1.1.37 -T
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "Compen.: perdut"
+msgstr "Compensació: perdut"
 
 #v1.1.72 -T
 msgctxt "accounting_pax_never_serviced"
@@ -1597,7 +1597,7 @@ msgstr "Sense servei"
 #v1.1.72 -T
 msgctxt "accounting_pax_new"
 msgid "New pax"
-msgstr "Nous pas"
+msgstr "Nous passatgers"
 
 #v1.1.31 -T
 msgctxt "accounting_pax_post"
@@ -1607,7 +1607,7 @@ msgstr "pas"
 #v1.1.37 -T
 msgctxt "accounting_pax_reached_depot"
 msgid "Refund: reached depot"
-msgstr "Reemb.: arribat a dipòsit"
+msgstr "Reembossament: arribat a dipòsit"
 
 #v1.1.31 -T
 msgctxt "accounting_pax_reached_destination"
@@ -1617,17 +1617,17 @@ msgstr "Arribat a destinació"
 #v1.1.31 -T
 msgctxt "accounting_pax_reached_transfer"
 msgid "Reached transfer"
-msgstr "Arribat a transferència"
+msgstr "Arribat a transbordament"
 
 #v1.1.37 -T
 msgctxt "accounting_pax_refunded"
 msgid "Refunded (incl. compen.)"
-msgstr "Reembossat (incl. compen.)"
+msgstr "Usuaris reembossats i compensats"
 
 #v1.1.37 -T
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "Reemb.: tarifa massa alta"
+msgstr "Reembossament: tarifa massa alta"
 
 #v1.1.31 -T
 msgctxt "accounting_pax_spawned"
@@ -1637,7 +1637,7 @@ msgstr "Començat viatge"
 #v1.1.37 -T
 msgctxt "accounting_pax_waited_too_long"
 msgid "Compen.: waited too long"
-msgstr "Compen.: va esperar massa"
+msgstr "Compensació: va esperar massa"
 
 #v1.1.31 -T
 msgctxt "accounting_period_day"
@@ -2162,7 +2162,7 @@ msgstr "Color:"
 #v1.1.31 -T
 msgctxt "company_tab_info"
 msgid "Info"
-msgstr "Info"
+msgstr "Informació"
 
 #v1.1.31 -T
 msgctxt "confirm_bp"
@@ -2618,7 +2618,7 @@ msgstr "Feu clic esquerre a qualsevol altre lloc per començar una nova via"
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
 msgstr "Esc per tornar al mode d'edició"
-###########################################################################################################################################################
+
 #v1.1.31
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
@@ -3384,160 +3384,160 @@ msgctxt "join_game"
 msgid "Join game"
 msgstr "Uneix-te a una partida"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "joincode_client_info"
 msgid "Paste a join code to join a player hosted server. If the player is offline or ignores your request, the connection will fail."
-msgstr "Pega un código de entrada para entrar a una partida hospedada. Si el anfitrión está offline o te ignora, fallará la conexión."
+msgstr "Enganxa un codi d'entrada per unir-te a una partida. Si el jugador està desconectat o ignora la teva petició, la connexió fallarà."
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "joincode_server_info"
 msgid "This join code allows any player to join your hosted game, even if they are not in your friend list. Make sure your Access rules are set to Allow or to Ask, otherwise players will be ignored even if they have a correct join code."
-msgstr "Este código de entrada permite a cualquier jugador entrar a tu partida, aunque no sea tu amigo. Asegúrate que tus reglas de acceso son Permitir o Preguntar, de lo contrario se ignorarán jugadores aunque tengan el código correcto."
+msgstr "Aquest codi d'entrada permet que qualsevol jugador es pugui unir a la teva partida, fins i tot si no està a la teva llista d'amics. Assegura't que les teves Regles d'Accés estan establertes a Permetre o a Preguntar, altrament els jugadors seran ignorats fins i tot si tenen un codi d'entrada correcte."
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "joint_multiplayer_name"
 msgid "Join multiplayer game"
-msgstr "Entrar a partida multijugador"
+msgstr "Entra a una partida multijugador"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_down"
 msgid "Map: scroll down"
-msgstr "Mapa: Desplaçar abajo"
+msgstr "Mapa: Desplaçar avall"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_left"
 msgid "Map: scroll left"
-msgstr "Mapa: Desplaçar izquierda"
+msgstr "Mapa: Desplaçar esquerra"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_right"
 msgid "Map: scroll right"
-msgstr "Mapa: Desplaçar derecha"
+msgstr "Mapa: Desplaçar dreta"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_toggle_layer"
 msgid "Map: toggle layers"
-msgstr "Mapa: alternar capas"
+msgstr "Mapa: alternar capes"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_toggle_tracks"
 msgid "Map: track mode"
-msgstr "Mapa: alternar modo de vía"
+msgstr "Mapa: alternar mode de via"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_up"
 msgid "Map: scroll up"
-msgstr "Mapa: Desplaçar arriba"
+msgstr "Mapa: Desplaçar amunt"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_zoom_in"
 msgid "Map: zoom in"
 msgstr "Mapa: ampliar"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_map_zoom_out"
 msgid "Map: zoom out"
-msgstr "Mapa: reducir"
+msgstr "Mapa: reduir"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_mode_info"
 msgid "Mode: info"
-msgstr "Modo: info"
+msgstr "Mode: info"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_mode_lines"
 msgid "Mode: lines"
-msgstr "Modo: líneas"
+msgstr "Mode: línies"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_mode_tracks"
 msgid "Mode: tracks"
-msgstr "Modo: vías"
+msgstr "Mode: vies"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_mode_trains"
 msgid "Mode: trains"
-msgstr "Modo: trenes"
+msgstr "Mode: trens"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_speed_down"
 msgid "Speed down"
-msgstr "Bajar velocidad"
+msgstr "Baixar velocitat"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_speed_toggle"
 msgid "Pause"
 msgstr "Pausa"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_speed_up"
 msgid "Speed up"
-msgstr "Subir velocidad"
+msgstr "Pujar velocitat"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_2x"
 msgid "Tracks: double tracks"
-msgstr "Vías: doble vía"
+msgstr "Vies: doble via"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_branch"
 msgid "Tracks: new branch"
-msgstr "Vías: nueva rama"
+msgstr "Vies: nova bifurcació"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "kb_track_building"
 msgid "Tracks: new building"
-msgstr "Vías: nuevos edificios"
+msgstr "Vies: nous ediificis"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_depot"
 msgid "Tracks: new depot"
-msgstr "Vías: nuevo depósito"
+msgstr "Vies: nou dipòsit"
 
 #v1.5.41 -T
 msgctxt "kb_track_flip_signal"
 msgid "Tracks: flip track side"
 msgstr "Vies: canvia costat o direcció"
 
-#v1.2.29
+#v1.2.29 -T
 msgctxt "kb_track_layer_down"
 msgid "Tracks: decr. new track layer"
-msgstr "Tracks: decr. capa de vía"
+msgstr "Vies: baixa de capa la via"
 
-#v1.2.29
+#v1.2.29 -T
 msgctxt "kb_track_layer_up"
 msgid "Tracks: incr. new track layer"
-msgstr "Tracks: incr. capa de vía"
+msgstr "Vies: puja de capa la via"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_move"
 msgid "Tracks: selection"
-msgstr "Vías: seleccionar"
+msgstr "Vies: seleccionar"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_new"
 msgid "Tracks: new tracks"
-msgstr "Vías: nuevas vías"
+msgstr "Vies: noves vies"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_new_signal"
 msgid "Tracks: new signal"
-msgstr "Vías: nueva señal"
+msgstr "Vies: nova senyal"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_sel_signal"
 msgid "Tracks: select signal"
-msgstr "Vías: seleccionar señal"
+msgstr "Vies: seleccionar senyal"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_track_station"
 msgid "Tracks: new station"
-msgstr "Vías: nueva estación"
+msgstr "Vies: nova estació"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "kb_tracks_unbp"
 msgid "Tracks: unblueprint"
-msgstr "Vías: convertir a planos"
+msgstr "Vies: convertir a plànols"
 
 #v1.2.22 -T
 msgctxt "key_info2"
@@ -4608,7 +4608,7 @@ msgstr "Iconos de tren"
 #v1.1.37
 msgctxt "mvo_user_zoom_out_tracks"
 msgid "Zoomed out tracks"
-msgstr "Vías en zoom abierto"
+msgstr "Vies en zoom abierto"
 
 #v1.3.13
 msgctxt "name"
@@ -5100,135 +5100,135 @@ msgctxt "rtstat_leg_s"
 msgid "Time to scheduled arrival"
 msgstr "Temps fins a l'arribada"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_avg_leg_time"
 msgid "Avg. leg time of contained pax"
-msgstr "Media de tiempo de segmento de pax"
+msgstr "Mitjana de temps d'enllaç"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_avg_time"
 msgid "Avg. total time of contained pax"
-msgstr "Media de tiempo total de pax"
+msgstr "Mitjana de temps total d'enllaç"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_capacity"
 msgid "Capacity"
-msgstr "Capacidad"
+msgstr "Capacitat"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_capactity_usage"
 msgid "Capacity used %"
-msgstr "Uso de capacidad %"
+msgstr "Ús de capacitat %"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_new"
 msgid "Contains new pax"
-msgstr "Contiene nuevos pax"
+msgstr "Conté nous passatgers"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_total"
 msgid "Contains total pax"
-msgstr "Contiene total pax"
+msgstr "Conté total passatgers"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_transfer"
 msgid "Contains transfer pax"
-msgstr "Contiene pax en transbordo"
+msgstr "Conté passatgers transbordats"	
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_with_destination"
 msgid "Pax with destination at"
-msgstr "Pax con destino en"
+msgstr "Passatgers amb destinació a"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_with_next"
 msgid "Pax with next stop at"
-msgstr "Pax con siguente parada en"
+msgstr "Passatgers amb següent parada a"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_pax_with_origin"
 msgid "Pax with origin at"
-msgstr "Pax con origen en"
+msgstr "Passatgers amb origen a"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_sax_avg"
 msgid "Satisfaction"
-msgstr "Satisfacción"
+msgstr "Satisfacció"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_spawn_rate"
 msgid "Spawn rate"
-msgstr "Ritmo de nuevos pax"
+msgstr "Ritme de nous passatgers"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "rtstat_speed"
 msgid "Speed"
-msgstr "Velocidad"
+msgstr "Velocitat"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "save"
 msgid "Save"
-msgstr "Guardar"
+msgstr "Desa"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "save_clipboard"
 msgid "Save clipboard"
-msgstr "Guardar portapapeles"
+msgstr "Desa al porta-retalls"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "save_file_name"
 msgid "Save file name"
-msgstr "Nombre archivo partida"
+msgstr "Nom del fitxer partida"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "save_game"
 msgid "Save game"
-msgstr "Guardar partida"
+msgstr "Desa la partida"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_0"
 msgid "Neutral"
 msgstr "Neutral"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_m1"
 msgid "Mediocre"
 msgstr "Mediocre"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_m2"
 msgid "Bad"
-msgstr "Mal"
+msgstr "Dolent"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_m3"
 msgid "Very bad"
-msgstr "Muy mal"
+msgstr "Molt dolent"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_p1"
 msgid "Good"
-msgstr "Bueno"
+msgstr "Bo"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_p2"
 msgid "Very good"
-msgstr "Muy bueno"
+msgstr "Molt bo"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_p3"
 msgid "Excellent"
-msgstr "Excelente"
+msgstr "Excel·lent"
 
-#v1.1.37
+#v1.1.37 -T
 msgctxt "sax_refund_warn_fare"
 msgid "Refund risk due to fare"
-msgstr "Riesgo de reembolso por lo pagado"
+msgstr "Risc de reembossament de tarifa"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "sax_score"
 msgid "Satisfaction: {:.2f}"
-msgstr "Satisfacción: {:.2f}"
+msgstr "Satisfacció: {:.2f}"
 
 #v1.2.22 -T
 msgctxt "sax_tooltip2"
@@ -5240,315 +5240,315 @@ msgctxt "sax_tooltip_new"
 msgid "Expects {0}, ${1:.2f}"
 msgstr "Desea {0}, ${1:.2f}"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "scaling_mode"
 msgid "Scaling:"
-msgstr "Escalado:"
+msgstr "Escalat:"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "scaling_mode_auto"
 msgid "Auto"
 msgstr "Auto"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "search_section_lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Línies"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "search_section_stations"
 msgid "Stations"
-msgstr "Estaciones"
+msgstr "Estacions"
 
-#v1.1.58
+#v1.1.58 -T
 msgctxt "search_section_train_models"
 msgid "Purchase train"
-msgstr "Comprar tren"
+msgstr "Compra el tren"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "search_section_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trens"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "search_section_world"
 msgid "World"
-msgstr "Mundo"
+msgstr "Món"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "selection_blueprint_bill"
 msgid "Selected blueprints bill"
-msgstr "Factura de planos seleccionados"
+msgstr "Factura dels plànols seleccionats"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "selection_blueprint_bill_short"
 msgid "Selected"
-msgstr "Selección"
+msgstr "Selecció"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "settings"
 msgid "Settings"
-msgstr "Opciones"
+msgstr "Opcions"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "show_all_clips"
 msgid "Show saved clipboard clips"
-msgstr "Mostrar los clips guardados del portapapeles"
+msgstr "Mostra els retalls desats del porta-retalls"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_alert_opt_custom"
 msgid "Custom wait time"
 msgstr "Espera específica"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_alert_opt_default"
 msgid "Same wait time as global option"
-msgstr "Idéntico a la opción global"
+msgstr "Idèntic a la opció global"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_alert_opts"
 msgid "Alert on:"
-msgstr "Alertar en:"
+msgstr "Alerta a:"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_dir_m1"
 msgid "-1"
 msgstr "-1"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_dir_p1"
 msgid "+1"
 msgstr "+1"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_direction"
 msgid "Direction:"
-msgstr "Dirección:"
+msgstr "Direcció:"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "signal_edit_invalid_track"
 msgid "This signal is still functional but it is not allowed on this kind of track starting from version 1.4. Some train maneuvers might be disabled in this track. Move it to a different track."
-msgstr "Esta señal sigue siendo functional pero no está permitida en este tipo de vía a partir de la versión 1.4. Algunas maniobras de trenes no se realizarán en esta vía. Desplázala a otra vía."
+msgstr "Aquesta senyal segueix sent funcional, però no està permesa en aquest tipus de traçat a partir de la versió 1.4. Algunes maniobres dels tren poden estar desactivades en aquest traçat. Mou-la a un traçat diferent."
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "signal_edit_plat_stop_obsolete"
 msgid "This signal is still functional but it has been obsoleted. Some train maneuvers might be disabled in this track."
-msgstr "Esta señal sigue siendo functional pero se considera obsoleta. Algunas maniobras de trenes no se realizarán en esta vía."
+msgstr "Aquesta senyal segueix sent funcional, però està obsoleta. Algunes maniobres dels tren poden estar desactivades en aquest traçat."
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "signal_edit_simple_block_obsolete"
 msgid "This signal is still functional but it has been obsoleted by path signals. Replace your simple block signaling with path signals."
-msgstr "Esta señal sigue siendo funcional pero se considera obsoleta y reemplazada por las señales de camino. Reemplaza tus señales de bloque simple por señales de camino."
+msgstr "Aquesta senyal segueix sent funcional, però està obsoleta en favor de les senyals de traçat. Reemplaça la teva senyalització de blocs simples per senyals de traçat."
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_editor_title_edit"
 msgid "Edit signal"
-msgstr "Editar señal"
+msgstr "Edita senyal"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_editor_title_new"
 msgid "New signal"
-msgstr "Nueva signal"
+msgstr "Nova senyal"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_filter_applies"
 msgid "Applies to all trains"
-msgstr "Aplica a tots los trenes"
+msgstr "Aplica a tots els trens"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_filter_except"
 msgid "Except:"
-msgstr "Excepto:"
+msgstr "Excepte:"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_filter_ignored"
 msgid "Ignored by all trains"
-msgstr "Ignorado por tots los trenes"
+msgstr "Ignorat per tots els trens"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_filter_label"
 msgid "By default:"
-msgstr "Por defecto:"
+msgstr "Per defecte:"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_filter_none"
 msgid "<No exceptions>"
-msgstr "<Sin excepciones>"
+msgstr "<Sense excepcions>"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_filter_op_or"
 msgid "OR"
 msgstr "O"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_flip"
 msgid "Flip"
-msgstr "Rotar"
+msgstr "Rota"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_kind_block_balise"
 msgid "Block balise"
-msgstr "Baliza de bloque"
+msgstr "Balisa de bloc"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_kind_name_noway"
 msgid "No way"
-msgstr "Sin paso"
+msgstr "Sense pas"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_kind_name_oneway"
 msgid "One way"
-msgstr "Dirección única"
+msgstr "Direcció única"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_kind_name_platform_stop"
 msgid "Platform train stop point"
-msgstr "Punto de parada en plataforma"
+msgstr "Punt de parada a l'andana"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_kind_path"
 msgid "Path signal"
-msgstr "Señal de camino"
+msgstr "Senyal de camí"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_kind_simple_block"
 msgid "Simple block"
-msgstr "Bloque simple"
+msgstr "Bloc simple"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_limits_block"
 msgid "Bounds other signals:"
-msgstr "Limita otras señales:"
+msgstr "Limita altres senyals:"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_limits_block_always"
 msgid "Always"
-msgstr "Siempre"
+msgstr "Sempre"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_limits_block_same"
 msgid "Only for same direction"
-msgstr "Solo para la misma dirección"
+msgstr "Només per a la mateixa direcció"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_side"
 msgid "Side (cosmetic):"
-msgstr "Lado (cosmético):"
+msgstr "Costat (cosmètico):"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_side_0"
 msgid "0"
 msgstr "0"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_side_m1"
 msgid "-1"
 msgstr "-1"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_side_p1"
 msgid "+1"
 msgstr "+1"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_stop_check_only_signals"
 msgid "Only signals"
-msgstr "Solo señales"
+msgstr "Només senyals"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_stop_check_signals_stops"
 msgid "Signals and train stop"
-msgstr "Señales y parada de tren"
+msgstr "Senyals i parada de tren"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_toggle"
 msgid "Toggle"
-msgstr "Alternar"
+msgstr "Alterna"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "signal_type"
 msgid "Type:"
-msgstr "Tipo:"
+msgstr "Tipus:"
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_warn_max_length"
 msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "El bloque protegido por esta señal es demasiado largo. Introduce más señales en el bloque, por ejemplo balizas, para hacerlo más corto."
+msgstr "El bloc de traçat protegit per aquesta senyal és massa llarg. Introdueix més senyals al bloc, tal com balises, per fer-lo més curt."
 
-#v1.3.13
+#v1.3.13 -T
 msgctxt "signal_warn_too_close"
 msgid "Too close"
-msgstr "Demasiado cerca"
+msgstr "Massa proper"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "single_player"
 msgid "Single player"
 msgstr "Un jugador"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "sort_sep_accounting"
 msgid "--- Accounting ---"
-msgstr "--- Contabilidad ---"
+msgstr "--- COMPTABILITAT ---"
 
-#v1.1.72
+#v1.1.72 -T
 msgctxt "sort_sep_real_time"
 msgid "--- Real time ---"
-msgstr "--- Tiempo real ---"
+msgstr "--- EN TEMPS REAL ---"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "start_game"
 msgid "Start game"
-msgstr "Empezar partida"
+msgstr "Inicia la partida"
 
-#v1.2.22
+#v1.2.22 -T
 msgctxt "station_editor"
 msgid "Station properties"
-msgstr "Propiedades de estación"
+msgstr "Propietats de l'estació"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "station_name_edit"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Nom:"
 
-#v1.1.37
+#v1.1.37 -T
 msgctxt "station_name_empty"
 msgid "<Empty name>"
-msgstr "<Nombre vacío>"
+msgstr "<Nom buit>"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "station_name_use_auto"
 msgid "Use automatic name"
-msgstr "Nombre automático"
+msgstr "Nom automàtic"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "station_platform_auto_name"
 msgid "Platform auto name"
-msgstr "Auto nombre de plataforma"
+msgstr "Nom automàtic d'andana"
 
-#v1.4.15
+#v1.4.15 -T
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
-msgstr "Nombre de plataforma:"
+msgstr "Nom d'andana:"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "station_pop_area"
 msgid "Area:"
-msgstr "Area:"
+msgstr "Àrea:"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "steam_chat"
 msgid "Steam Chat and Friends"
-msgstr "Steam Chat y Amigos"
+msgstr "Xat d'Steam i Amics"
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "steam_chat_client_info"
 msgid "The Join Game options in Steam Chat and Steam Friends can be used to request access to other player games."
-msgstr "Las opciones para entrar a partida del Steam Chat y Amigos se pueden utilizar para pedir acceso a las partidas de otros jugadores."
+msgstr "Les opcions per a Unir-se a la partida del Xat d'Steam i Amics es poden emprar per sol·licitar accés a les partides d'altres jugadors."
 
-#v1.1.31
+#v1.1.31 -T
 msgctxt "steam_chat_server_info"
 msgid "The Invite options in Steam Chat and Steam Friends can be used to invite other players to your hosted game. Your settings for the the Access rules apply to Steam invites."
-msgstr "Las opciones para invitar jugadores del Steam Chat y Amigos se pueden utilizar para invitar a otros jugadores a tu partida. Tus opciones para las reglas de acceso se aplican a estas invitaciones."
+msgstr "Les opcions d'Invitació del Xat d'Steam i Amics es poden emprar per convidar altres jugadors a la teva partida. Les teves opcions per a les Regles d'Accés s'apliquen a les invitacions d'Steam."
 
 #v1.1.31 -T
 msgctxt "steam_friends"

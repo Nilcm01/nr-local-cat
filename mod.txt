@@ -1,12 +1,12 @@
 [ModMeta]
 schema=1
-name=Traducció al Català
+name=Traducció Catalana (Català / Valencià)
 author=Nil Caballero i Milà en nom de Projecte 'Ce Trencada'
 version=1.0.0
 
 [Language]
 code_iso_639_2=cat
-name=Català (Catalan)
+name=Català (Cat / Val)
 
 [LanguageDict]
 code_iso_639_2=cat
